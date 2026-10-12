@@ -1,0 +1,156 @@
+[
+  {
+    "Sector":"Private",
+    "Procedure name":"Laparoscopic excision of lesion of pelvic cavity",
+    "ACHI procedure code":3563710.0,
+    "Hospitalisations":10219.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":62.9
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Diagnostic hysteroscopy",
+    "ACHI procedure code":3563000.0,
+    "Hospitalisations":8769.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":54.0
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Dilation and curettage of uterus [D&C]",
+    "ACHI procedure code":3564000.0,
+    "Hospitalisations":7332.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":45.1
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Laparoscopic division of abdominal adhesions",
+    "ACHI procedure code":3039300.0,
+    "Hospitalisations":4926.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":30.3
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Test for tubal patency",
+    "ACHI procedure code":3570300.0,
+    "Hospitalisations":3459.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":21.3
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Insertion of intrauterine device [IUD]",
+    "ACHI procedure code":3550300.0,
+    "Hospitalisations":2922.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":18.0
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Cystoscopy",
+    "ACHI procedure code":3681200.0,
+    "Hospitalisations":2637.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":16.2
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Laparoscopic diathermy of lesion of pelvic cavity",
+    "ACHI procedure code":3563702.0,
+    "Hospitalisations":2375.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":14.6
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Laparoscopic total abdominal hysterectomy",
+    "ACHI procedure code":3565307.0,
+    "Hospitalisations":2056.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":12.7
+  },
+  {
+    "Sector":"Private",
+    "Procedure name":"Laparoscopic salpingectomy, bilateral",
+    "ACHI procedure code":3563810.0,
+    "Hospitalisations":2045.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":12.6
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Laparoscopic excision of lesion of pelvic cavity",
+    "ACHI procedure code":3563710.0,
+    "Hospitalisations":2551.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":30.2
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Diagnostic hysteroscopy",
+    "ACHI procedure code":3563000.0,
+    "Hospitalisations":2343.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":27.8
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Dilation and curettage of uterus [D&C]",
+    "ACHI procedure code":3564000.0,
+    "Hospitalisations":2128.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":25.2
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Laparoscopic division of abdominal adhesions",
+    "ACHI procedure code":3039300.0,
+    "Hospitalisations":1841.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":21.8
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Laparoscopic diathermy of lesion of pelvic cavity",
+    "ACHI procedure code":3563702.0,
+    "Hospitalisations":1140.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":13.5
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Insertion of intrauterine device [IUD]",
+    "ACHI procedure code":3550300.0,
+    "Hospitalisations":1036.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":12.3
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Test for tubal patency",
+    "ACHI procedure code":3570300.0,
+    "Hospitalisations":874.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":10.4
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Cystoscopy",
+    "ACHI procedure code":3681200.0,
+    "Hospitalisations":838.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":9.9
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Laparoscopic total abdominal hysterectomy",
+    "ACHI procedure code":3565307.0,
+    "Hospitalisations":837.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":9.9
+  },
+  {
+    "Sector":"Public",
+    "Procedure name":"Laparoscopic salpingectomy, bilateral",
+    "ACHI procedure code":3563810.0,
+    "Hospitalisations":796.0,
+    "Proportion of endometriosis hospitalisations within sector (%)":9.4
+  },
+  {
+    "Sector":null,
+    "Procedure name":null,
+    "ACHI procedure code":null,
+    "Hospitalisations":null,
+    "Proportion of endometriosis hospitalisations within sector (%)":null
+  },
+  {
+    "Sector":"Source:  National Hospital Morbidity Database.",
+    "Procedure name":null,
+    "ACHI procedure code":null,
+    "Hospitalisations":null,
+    "Proportion of endometriosis hospitalisations within sector (%)":null
+  }
+]

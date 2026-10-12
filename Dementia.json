@@ -1,0 +1,314 @@
+[
+  {
+    "Age group":"30–59",
+    "value":2959.5005700294,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"60–64",
+    "value":10133.2006,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"65–69",
+    "value":13795.8259366516,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"70–74",
+    "value":19719.8200988372,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"75–79",
+    "value":25716.2644214131,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"80–84",
+    "value":27207.3210882532,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"85–89",
+    "value":24494.1278031924,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"90+",
+    "value":25559.4124229803,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"Total",
+    "value":149585.4729413573,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"Notes: ",
+    "value":null,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"1. Prevalence rates were applied to the 2022 June 30 estimated resident population (ERP)",
+    "value":null,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"2. 'Total' prevalence rates were calculated for all ages, not just those aged 30 years or over.",
+    "value":null,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"Source: AIHW calculations using prevalence rates from the 2015 World Alzheimer report and Withall et al. 2014.",
+    "value":null,
+    "sex":"Males",
+    "metric":"Number"
+  },
+  {
+    "Age group":"30–59",
+    "value":0.5811988483,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"60–64",
+    "value":13.9625,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"65–69",
+    "value":21.9954751131,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"70–74",
+    "value":35.8003875969,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"75–79",
+    "value":61.2935592406,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"80–84",
+    "value":104.2793670116,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"85–89",
+    "value":173.0569020559,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"90+",
+    "value":337.0353449942,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"Total",
+    "value":11.6027617364,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"Notes: ",
+    "value":null,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"1. Prevalence rates were applied to the 2022 June 30 estimated resident population (ERP)",
+    "value":null,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"2. 'Total' prevalence rates were calculated for all ages, not just those aged 30 years or over.",
+    "value":null,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"Source: AIHW calculations using prevalence rates from the 2015 World Alzheimer report and Withall et al. 2014.",
+    "value":null,
+    "sex":"Males",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"30–59",
+    "value":2526.9132169782,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"60–64",
+    "value":12839.0425,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"65–69",
+    "value":18466.5113695324,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"70–74",
+    "value":27077.5388662791,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"75–79",
+    "value":36035.9225760635,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"80–84",
+    "value":42564.789374721,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"85–89",
+    "value":45613.0071008428,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"90+",
+    "value":66564.6493342433,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"Total",
+    "value":251688.3743386603,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"Notes: ",
+    "value":null,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"1. Prevalence rates were applied to the 2022 June 30 estimated resident population (ERP)",
+    "value":null,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"2. 'Total' prevalence rates were calculated for all ages, not just those aged 30 years or over.",
+    "value":null,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"Source: AIHW calculations using prevalence rates from the 2015 World Alzheimer report and Withall et al. 2014.",
+    "value":null,
+    "sex":"Females",
+    "metric":"Number"
+  },
+  {
+    "Age group":"30–59",
+    "value":0.4842881184,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"60–64",
+    "value":16.75,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"65–69",
+    "value":27.3514328808,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"70–74",
+    "value":45.6531007752,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"75–79",
+    "value":79.2656813266,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"80–84",
+    "value":139.4305132887,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"85–89",
+    "value":236.5439535181,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"90+",
+    "value":479.1995373502,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"Total",
+    "value":19.232371658,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"Notes: ",
+    "value":null,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"1. Prevalence rates were applied to the 2022 June 30 estimated resident population (ERP)",
+    "value":null,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"2. 'Total' prevalence rates were calculated for all ages, not just those aged 30 years or over.",
+    "value":null,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  },
+  {
+    "Age group":"Source: AIHW calculations using prevalence rates from the 2015 World Alzheimer report and Withall et al. 2014.",
+    "value":null,
+    "sex":"Females",
+    "metric":"Rate per 1,000"
+  }
+]

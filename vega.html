@@ -1,0 +1,666 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="An Australian women's health data dashboard covering mental health, hysterectomy and endometriosis." />
+    <title>Women's Health | Australia</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.1.0"></script>
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="masthead-inner">
+        <h1>Exploring and Comparing key women’s health in terms of Hysterectomy, Endometriosis and Mental Health.</h1>
+        <p class="intro">How much Australia put effort in supporting women health concerns?</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-strip" aria-label="Key health statistics">
+        <div class="stat-card">
+          <span class="stat-label">Women reporting poor mental health</span>
+          <strong>2.23M</strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Highest hysterectomy rate</span>
+          <strong>326 / 100k</strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Primary health networks</span>
+          <strong>34</strong>
+        </div>
+      </section>
+      <section class="dashboard-section" aria-labelledby="mental-health-heading">
+        <header class="section-heading">
+          <div>
+            <p class="eyebrow">MENTAL HEALTH</p>
+          </div>
+        </header>
+        <div class="chart-grid" aria-label="Mental health visualizations">
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Reported mental health conditions by state</h3><p>People reporting a condition, including depression or anxiety</p></div></header>
+          <div class="chart" id="chart-state-mental" aria-label="Map of reported mental health condition counts by Australian state"></div>
+          <p class="chart-source">Source: AIHW mental health state dataset.</p>
+        </article>
+
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Female reports across Primary Health Networks</h3><p>Geographic concentration of female reports across PHN locations</p></div></header>
+          <div class="chart" id="chart-phn-map" aria-label="Map of female mental health reports by Primary Health Network"></div>
+          <p class="chart-source">Source: AIHW mental health PHN reporting data.</p>
+        </article>
+
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Mental health condition distribution by age and sex</h3><p>Ridgeline profiles of long-term condition prevalence</p></div></header>
+          <div class="chart" id="chart-ridgeline" aria-label="Ridgeline chart of mental health conditions by age and sex"></div>
+          <p class="chart-source">Source: Prevalence and impact of mental illness dataset.</p>
+        </article>
+
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Female mental health prevalence over time</h3><p>Age-group trends with 95% confidence bands · prevalence shown as percent</p></div></header>
+          <div class="chart" id="chart-prevalence-ci" aria-label="Time series of female mental health prevalence by age group with confidence bands"></div>
+          <p class="chart-source">Source: AIHW female mental health confidence intervals.</p>
+        </article>
+        </div>
+      </section>
+
+      <section class="dashboard-section" aria-labelledby="regional-heading">
+        <header class="section-heading">
+          <div>
+            <p class="eyebrow">COMORBIDITY &amp; REGIONAL ACCESS</p>
+          </div>
+        </header>
+        <div class="chart-grid" aria-label="Comorbidity and regional access visualizations">
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Long-term conditions alongside mental health</h3><p>Mirrored counts compare women and men across co-occurring conditions</p></div></header>
+          <div class="chart" id="chart-comorbidity" aria-label="Mirrored bar chart comparing comorbid long-term conditions by sex"></div>
+          <p class="chart-source">Source: AIHW long-term condition and mental health profile.</p>
+        </article>
+
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Female reports by age and state</h3><p>Reported counts form a life-stage and place matrix</p></div></header>
+          <div class="chart" id="chart-age-state" aria-label="Heatmap of female reported mental health conditions by age and state"></div>
+          <p class="chart-source">Source: AIHW mental health by age and jurisdiction.</p>
+        </article>
+
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>Female–male difference by Primary Health Network</h3><p>Colour shows the count gap; bubble size shows its magnitude</p></div></header>
+          <div class="chart" id="chart-phn-gap-map" aria-label="Map of the difference between female and male mental health reports by PHN"></div>
+          <p class="chart-source">Source: AIHW PHN mental health difference data.</p>
+        </article>
+
+        <article class="chart-card">
+          <header class="chart-heading"><div><h3>National mental health response mix</h3><p>100 tiles represent the share of reported responses summed across states</p></div></header>
+          <div class="chart" id="chart-response-waffle" aria-label="Waffle chart of national mental health response categories"></div>
+          <p class="chart-source">Source: AIHW national mental health response mix.</p>
+        </article>
+        </div>
+      </section>
+
+      <section class="dashboard-section" aria-labelledby="care-heading">
+        <header class="section-heading">
+          <div>
+            <p class="eyebrow">PROCEDURES &amp; SURGERY</p>
+          </div>
+        </header>
+        <div class="chart-grid" aria-label="Women's health procedures and care visualizations">
+          <article class="chart-card">
+            <header class="chart-heading"><div><h3>Hysterectomy rates by state</h3><p>Age-standardised hospitalisation rate per 100,000 women, 2014–15</p></div></header>
+            <div class="chart" id="chart-state-hyst" aria-label="Map of state hysterectomy hospitalisation rates"></div>
+            <p class="chart-source">Source: AIHW hysterectomy hospitalisation data.</p>
+          </article>
+
+          <article class="chart-card">
+            <header class="chart-heading"><div><h3>Hysterectomy rate rankings by state</h3><p>Bump chart across eight years · rank 1 is the highest age-standardised rate</p></div></header>
+            <div class="chart" id="chart-hyst-bump" aria-label="Bump chart of state hysterectomy rate rankings over eight years"></div>
+            <p class="chart-source">Source: AIHW hysterectomy trend and ranking data.</p>
+          </article>
+
+          <article class="chart-card">
+            <header class="chart-heading"><div><h3>Endometriosis-related procedures by age</h3><p>Hospitalisations grouped by procedure and age at admission</p></div></header>
+            <div class="chart" id="chart-endometriosis-age" aria-label="Heatmap of endometriosis procedure hospitalisations by age"></div>
+            <p class="chart-source">Source: National Hospital Morbidity Database, endometriosis procedures.</p>
+          </article>
+
+          <article class="chart-card">
+            <header class="chart-heading"><div><h3>Endometriosis procedures: private vs public</h3><p>Connected dots compare each procedure’s share of sector hospitalisations</p></div></header>
+            <div class="chart" id="chart-endometriosis-comparison" aria-label="Connected-dot comparison of endometriosis procedures by hospital sector"></div>
+            <p class="chart-source">Source: National Hospital Morbidity Database, sector comparisons.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <p>Counts describe reported or estimated people and are not population-adjusted rates unless stated.</p>
+      <p>Sources: Australian Institute of Health and Welfare datasets supplied with this assignment.</p>
+    </footer>
+
+    <script>
+      const boundaryUrl = "https://raw.githubusercontent.com/rowanhogan/australian-states/master/states.geojson";
+      const commonConfig = {
+        font: "DM Sans",
+        axis: {
+          labelFontSize: 11,
+          titleFontSize: 12,
+          labelColor: "#53615a",
+          titleColor: "#34423b",
+          gridColor: "#e5eae6",
+          domainColor: "#c9d2cc",
+          tickColor: "#c9d2cc"
+        },
+        legend: { labelFontSize: 11, titleFontSize: 12, labelColor: "#53615a", titleColor: "#34423b" },
+        header: { labelFontSize: 11, titleFontSize: 12, labelColor: "#53615a", titleColor: "#34423b" },
+        view: { stroke: null }
+      };
+
+      const phnCoordinates = {
+        PHN101: [-33.88, 151.20], PHN102: [-33.95, 150.95], PHN103: [-33.42, 151.05], PHN104: [-32.93, 151.75],
+        PHN105: [-32.25, 151.10], PHN106: [-33.35, 150.70], PHN107: [-33.05, 151.60], PHN108: [-31.95, 148.60],
+        PHN109: [-30.30, 152.90], PHN110: [-31.10, 149.60], PHN201: [-37.82, 144.96], PHN202: [-38.15, 144.30],
+        PHN203: [-37.65, 145.00], PHN204: [-36.75, 144.28], PHN205: [-37.30, 143.85], PHN301: [-27.47, 153.03],
+        PHN302: [-27.95, 153.40], PHN303: [-23.38, 150.52], PHN304: [-19.27, 146.82], PHN305: [-26.65, 152.80],
+        PHN501: [-31.95, 115.86], PHN502: [-33.35, 115.75], PHN503: [-28.75, 122.24], PHN601: [-34.93, 138.60],
+        PHN602: [-34.75, 138.60], PHN701: [-42.88, 147.33], PHN801: [-35.28, 149.13], PHN901: [-12.46, 130.84]
+      };
+
+      const stateAreaSqKm = {
+        NSW: 800642,
+        Vic: 227444,
+        QLD: 1730650,
+        WA: 2529875,
+        SA: 983482,
+        Tas: 68401,
+        ACT: 2358,
+        NT: 1346200
+      };
+
+      const coordinateExpression = (index) => Object.entries(phnCoordinates)
+        .map(([code, coordinates]) => `datum['PHN code'] === '${code}' ? ${coordinates[index]}`)
+        .join(" : ") + " : null";
+
+      const charts = [
+        ["#chart-state-mental", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 510,
+          height: 430,
+          projection: { type: "mercator" },
+          data: { url: boundaryUrl, format: { type: "json", property: "features" } },
+          mark: { type: "geoshape", stroke: "#f8faf7", strokeWidth: 1.5 },
+          encoding: {
+            color: { field: "reported_per_km2", type: "quantitative", title: "Reported / km²", scale: { type: "log", domain: [0.005, 25], scheme: ["#f6f2ff", "#e1d7fb", "#c3aef0", "#8368be", "#2f1e4f"], clamp: true } },
+            tooltip: [
+              { field: "state_code", type: "nominal", title: "State" },
+              { field: "reported_per_km2", type: "quantitative", title: "Reported per km²", format: ".3f" },
+              { field: "reported_count", type: "quantitative", title: "Reported people", format: "," }
+            ]
+          },
+          config: commonConfig
+        }],
+
+        ["#chart-phn-map", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 900,
+          height: 520,
+          projection: { type: "mercator", center: [134, -28], scale: 950 },
+          layer: [
+            {
+              data: { url: boundaryUrl, format: { type: "json", property: "features" } },
+              mark: { type: "geoshape", fill: "#edf2ee", stroke: "#aab8ae", strokeWidth: 0.8 }
+            },
+            {
+              data: { url: "reported_mental_health.json" },
+              transform: [
+                { filter: "datum.Sex === 'Female' && datum.Count === 'Number'" },
+                { calculate: coordinateExpression(1), as: "longitude" },
+                { calculate: coordinateExpression(0), as: "latitude" },
+                { filter: "isValid(datum.longitude) && isValid(datum.latitude)" },
+                { aggregate: [{ op: "sum", field: "Has a mental health condition (including depression or anxiety)", as: "female_reports" }], groupby: ["longitude", "latitude"] }
+              ],
+              mark: { type: "circle", opacity: 0.82, stroke: "white", strokeWidth: 1.2 },
+              encoding: {
+                longitude: { field: "longitude", type: "quantitative" },
+                latitude: { field: "latitude", type: "quantitative" },
+                size: { field: "female_reports", type: "quantitative", title: "Female reports", scale: { range: [80, 1300] } },
+                color: { field: "female_reports", type: "quantitative", title: "Female reports", scale: { scheme: ["#f6f2ff", "#e1d7fb", "#c3aef0", "#8368be", "#2f1e4f"] } },
+                tooltip: [
+                  { field: "female_reports", type: "quantitative", title: "Female reports", format: "," }
+                ]
+              }
+            }
+          ],
+          config: commonConfig
+        }],
+
+        ["#chart-state-hyst", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 500,
+          height: 430,
+          projection: { type: "mercator" },
+          data: { url: boundaryUrl, format: { type: "json", property: "features" } },
+          mark: { type: "geoshape", stroke: "#f8faf7", strokeWidth: 1.5 },
+          encoding: {
+            color: { field: "rate", type: "quantitative", title: "Rate per 100,000", scale: { scheme: ["#f6f2ff", "#e1d7fb", "#c3aef0", "#8368be", "#2f1e4f"] } },
+            tooltip: [
+              { field: "state_code", type: "nominal", title: "State" },
+              { field: "rate", type: "quantitative", title: "Age-standardised rate / 100,000" },
+              { field: "hospitalisations", type: "quantitative", title: "Hospitalisations", format: "," }
+            ]
+          },
+          config: commonConfig
+        }],
+
+        ["#chart-ridgeline", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          data: { url: "ridgeline_data.json" },
+          transform: [
+            { filter: "datum['Age group'] !== 'Total' && datum['Age group'] !== 'Notes:'" },
+            { calculate: "datum.x * 100", as: "prevalence_percent" }
+          ],
+          facet: { row: { field: "Age group", type: "ordinal", title: null, header: { labelAngle: 0, labelAlign: "left", labelPadding: 4 } } },
+          spec: {
+            width: 470,
+            height: 27,
+            mark: { type: "area", interpolate: "monotone", opacity: 0.68, line: { color: "#fff", strokeWidth: 0.7 } },
+            encoding: {
+              x: { field: "prevalence_percent", type: "quantitative", title: "Prevalence (%)" },
+              y: { field: "density", type: "quantitative", axis: null, scale: { range: [27, 0] } },
+              color: { field: "Sex", type: "nominal", title: "Sex", scale: { domain: ["Female", "Male"], range: ["#56428c", "#b8d8c8"] }, legend: { orient: "bottom" } },
+              tooltip: [
+                { field: "Age group", type: "nominal" },
+                { field: "Sex", type: "nominal" },
+                { field: "prevalence_percent", type: "quantitative", title: "Prevalence (%)", format: ".1f" }
+              ]
+            }
+          },
+          resolve: { scale: { y: "independent" } },
+          config: commonConfig
+        }],
+
+        ["#chart-prevalence-ci", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          data: { url: "mental_CI.json" },
+          transform: [
+            { filter: "datum.Sex === 'Female' && datum.Response === 'Has a long-term mental health condition'" },
+            { calculate: "datum['Per cent'] * 100", as: "prevalence" },
+            { calculate: "datum['Lower 95% confidence limit'] * 100", as: "lower" },
+            { calculate: "datum['Upper 95% confidence limit'] * 100", as: "upper" },
+            { filter: "datum['Age group'] !== 'Total' && isValid(datum['Age group'])" },
+            { calculate: "datum.Year", as: "survey_year" }
+          ],
+          width: 560,
+          height: 430,
+          layer: [
+            {
+              mark: { type: "area", opacity: 0.12, color: "#56428c" },
+              encoding: {
+                x: { field: "survey_year", type: "quantitative", title: "Survey year", scale: { domain: [2003, 2021], nice: false }, axis: { values: [2003, 2006, 2009, 2012, 2015, 2018, 2021], format: "d", labelAngle: 0 } },
+                y: { field: "lower", type: "quantitative", title: "Prevalence (%)", scale: { domain: [0, 25], nice: false }, axis: { values: [0, 5, 10, 15, 20, 25], labelExpr: "datum.value + '%'" } },
+                y2: { field: "upper" },
+                detail: { field: "Age group" },
+                order: { field: "survey_year", type: "quantitative" },
+                tooltip: [
+                  { field: "Age group", type: "nominal" },
+                  { field: "Year", type: "quantitative", title: "Year" },
+                  { field: "lower", type: "quantitative", title: "Lower 95% CI", format: ".1f" },
+                  { field: "upper", type: "quantitative", title: "Upper 95% CI", format: ".1f" }
+                ]
+              }
+            },
+            {
+              mark: { type: "line", point: { filled: true, size: 24 }, strokeWidth: 1.8 },
+              encoding: {
+                x: { field: "survey_year", type: "quantitative", scale: { domain: [2003, 2021], nice: false }, axis: { values: [2003, 2006, 2009, 2012, 2015, 2018, 2021], format: "d", labelAngle: 0 } },
+                y: { field: "prevalence", type: "quantitative", scale: { domain: [0, 25], nice: false }, axis: { values: [0, 5, 10, 15, 20, 25], labelExpr: "datum.value + '%'" } },
+                color: { field: "Age group", type: "nominal", title: "Age group", scale: { scheme: "tableau10" }, legend: { orient: "bottom", columns: 3 } },
+                detail: { field: "Age group" },
+                order: { field: "survey_year", type: "quantitative" },
+                tooltip: [
+                  { field: "Age group", type: "nominal" },
+                  { field: "Year", type: "quantitative", title: "Year" },
+                  { field: "prevalence", type: "quantitative", title: "Prevalence (%)", format: ".1f" },
+                  { field: "lower", type: "quantitative", title: "Lower 95% CI", format: ".1f" },
+                  { field: "upper", type: "quantitative", title: "Upper 95% CI", format: ".1f" }
+                ]
+              }
+            }
+          ],
+          config: commonConfig
+        }],
+
+        ["#chart-comorbidity", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 450,
+          height: { step: 29 },
+          data: { url: "mental_phyisical.json" },
+          transform: [
+            { filter: "datum.response === 'Has a mental health condition' && datum.condition !== 'Total'" },
+            { joinaggregate: [{ op: "sum", field: "count", as: "condition_total" }], groupby: ["condition"] },
+            { calculate: "datum.sex === 'Male' ? -datum.count : datum.count", as: "signed_count" }
+          ],
+          mark: { type: "bar", size: 18, cornerRadiusEnd: 2 },
+          encoding: {
+            x: { field: "signed_count", type: "quantitative", title: "Reported people", scale: { domainMid: 0, nice: false }, axis: { labelExpr: "format(abs(datum.value), ',')", values: [-300000, -200000, -100000, 0, 100000, 200000, 300000], grid: true } },
+            y: { field: "condition", type: "nominal", title: null, sort: { field: "condition_total", order: "descending" }, axis: { labelLimit: 160 } },
+            color: { field: "sex", type: "nominal", title: "Sex", scale: { domain: ["Male", "Female"], range: ["#b8d8c8", "#56428c"] }, legend: { orient: "bottom" } },
+            tooltip: [
+              { field: "sex", type: "nominal", title: "Sex" },
+              { field: "condition", type: "nominal", title: "Long-term condition" },
+              { field: "count", type: "quantitative", title: "People", format: "," }
+            ]
+          },
+          config: commonConfig
+        }],
+
+        ["#chart-age-state", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 470,
+          height: { step: 25 },
+          data: { url: "mental_health_population.json" },
+          transform: [
+            { filter: "datum.Response === 'Has a mental health condition (including depression or anxiety)' && datum.Sex === 'Female' && datum.Count === 'Number' && datum['Age group'] !== 'Total'" },
+            { fold: ["NSW", "Vic", "QLD", "WA", "SA", "Tas", "ACT", "NT"], as: ["State", "People"] },
+            { calculate: "toNumber(datum.People)", as: "people_count" }
+          ],
+          mark: { type: "rect", stroke: "#fff", strokeWidth: 1 },
+          encoding: {
+            x: { field: "State", type: "ordinal", title: "State / territory", sort: ["NSW", "Vic", "QLD", "SA", "WA", "Tas", "NT", "ACT"] },
+            y: { field: "Age group", type: "ordinal", title: "Age group" },
+            color: { field: "people_count", type: "quantitative", title: "Reported people", scale: { scheme: ["#f6f2ff", "#e1d7fb", "#c3aef0", "#8368be", "#2f1e4f"] }, legend: { orient: "bottom" } },
+            tooltip: [
+              { field: "Age group", type: "nominal" },
+              { field: "State", type: "nominal" },
+              { field: "people_count", type: "quantitative", title: "Female reports", format: "," }
+            ]
+          },
+          config: commonConfig
+        }],
+
+        ["#chart-endometriosis-age", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 420,
+          height: { step: 20 },
+          data: { url: "Selected_procedures.json" },
+          transform: [
+            { fold: ["Under 25 (Number)", "25-34 (Number)", "35-44 (Number)", "45 and over (Number)"], as: ["Age group", "Count"] },
+            { aggregate: [{ op: "sum", field: "Count", as: "Hospitalisations" }], groupby: ["Procedure name", "Age group"] }
+          ],
+          mark: { type: "rect", stroke: "#fff", strokeWidth: 1 },
+          encoding: {
+            x: { field: "Age group", type: "nominal", title: "Age group", sort: ["Under 25 (Number)", "25-34 (Number)", "35-44 (Number)", "45 and over (Number)"], axis: { labelAngle: 0, labelExpr: "replace(datum.label, ' (Number)', '')" } },
+            y: { field: "Procedure name", type: "nominal", title: null, sort: { field: "Hospitalisations", op: "sum", order: "descending" }, axis: { labelLimit: 140 } },
+            color: { field: "Hospitalisations", type: "quantitative", title: "Hospitalisations", scale: { scheme: ["#f6f2ff", "#e1d7fb", "#c3aef0", "#8368be", "#2f1e4f"] }, legend: { orient: "bottom" } },
+            tooltip: [
+              { field: "Procedure name", type: "nominal" },
+              { field: "Age group", type: "nominal" },
+              { field: "Hospitalisations", type: "quantitative", format: "," }
+            ]
+          },
+          config: commonConfig
+        }],
+
+        ["#chart-endometriosis-comparison", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 850,
+          height: { step: 38 },
+          data: { url: "common_procedures_endometriosis.json" },
+          transform: [
+            { filter: "(datum.Sector === 'Private' || datum.Sector === 'Public') && isValid(datum['Proportion of endometriosis hospitalisations within sector (%)']) && isValid(datum['Procedure name'])" },
+            { pivot: "Sector", value: "Proportion of endometriosis hospitalisations within sector (%)", groupby: ["Procedure name"] },
+            { fold: ["Private", "Public"], as: ["Sector", "Share"] }
+          ],
+          layer: [
+            {
+              transform: [{ filter: "datum.Sector === 'Private'" }],
+              mark: { type: "rule", color: "#9ba9a0", strokeWidth: 2 },
+              encoding: {
+                x: { field: "Private", type: "quantitative", title: "Share of sector endometriosis hospitalisations (%)", scale: { domain: [0, 70], nice: false }, axis: { values: [0, 10, 20, 30, 40, 50, 60, 70], labelExpr: "datum.value + '%'" } },
+                x2: { field: "Public" },
+                y: { field: "Procedure name", type: "nominal", title: null, sort: { field: "Private", order: "descending" }, axis: { labelLimit: 300 } },
+                tooltip: [
+                  { field: "Procedure name", type: "nominal" },
+                  { field: "Private", type: "quantitative", title: "Private share (%)", format: ".1f" },
+                  { field: "Public", type: "quantitative", title: "Public share (%)", format: ".1f" }
+                ]
+              }
+            },
+            {
+              mark: { type: "point", filled: true, size: 105, stroke: "white", strokeWidth: 1 },
+              encoding: {
+                x: { field: "Share", type: "quantitative", scale: { domain: [0, 70], nice: false }, axis: { values: [0, 10, 20, 30, 40, 50, 60, 70], labelExpr: "datum.value + '%'" } },
+                y: { field: "Procedure name", type: "nominal", sort: { field: "Private", order: "descending" }, axis: { labelLimit: 300 } },
+                color: { field: "Sector", type: "nominal", title: "Hospital sector", scale: { domain: ["Private", "Public"], range: ["#b8d8c8", "#56428c"] } },
+                tooltip: [
+                  { field: "Procedure name", type: "nominal" },
+                  { field: "Sector", type: "nominal" },
+                  { field: "Share", type: "quantitative", title: "Share (%)", format: ".1f" }
+                ]
+              }
+            }
+          ],
+          config: commonConfig
+        }],
+
+        ["#chart-hyst-bump", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 520,
+          height: 420,
+          data: { url: "hysterectomy_state.json" },
+          transform: [
+            { filter: "datum.State !== 'Australia' && isValid(datum['Age standardised rate per 100,000'])" },
+            { window: [{ op: "rank", as: "rate_rank" }], groupby: ["Year"], sort: [{ field: "Age standardised rate per 100,000", order: "descending" }] }
+          ],
+          mark: { type: "line", point: { filled: true, size: 72 }, strokeWidth: 2.2 },
+          encoding: {
+            x: { field: "Year", type: "ordinal", title: "Year", sort: ["2014–15", "2015–16", "2016–17", "2017–18", "2018–19", "2019–20", "2020–21", "2021–22"], axis: { labelAngle: 0 } },
+            y: { field: "rate_rank", type: "quantitative", title: "Rate rank (1 = highest)", scale: { domain: [1, 8], reverse: true, nice: false }, axis: { values: [1, 2, 3, 4, 5, 6, 7, 8] } },
+            color: { field: "State", type: "nominal", title: "State", scale: { scheme: "tableau10" }, legend: { orient: "bottom", columns: 4 } },
+            detail: { field: "State" },
+            order: { field: "Year", type: "ordinal" },
+            tooltip: [
+              { field: "State", type: "nominal", title: "State" },
+              { field: "Year", type: "nominal", title: "Year" },
+              { field: "rate_rank", type: "quantitative", title: "Rate rank" },
+              { field: "Age standardised rate per 100,000", type: "quantitative", title: "Rate / 100,000" }
+            ]
+          },
+          config: commonConfig
+        }],
+
+        ["#chart-phn-gap-map", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 900,
+          height: 520,
+          projection: { type: "mercator", center: [134, -28], scale: 950 },
+          layer: [
+            {
+              data: { url: boundaryUrl, format: { type: "json", property: "features" } },
+              mark: { type: "geoshape", fill: "#edf2ee", stroke: "#aab8ae", strokeWidth: 0.8 }
+            },
+            {
+              data: { url: "reported_mental_health.json" },
+              transform: [
+                { filter: "datum.Count === 'Number' && (datum.Sex === 'Female' || datum.Sex === 'Male')" },
+                { pivot: "Sex", value: "Has a mental health condition (including depression or anxiety)", groupby: ["PHN code", "PHN name"] },
+                { calculate: "datum.Female - datum.Male", as: "female_minus_male" },
+                { calculate: "abs(datum.female_minus_male)", as: "absolute_gap" },
+                { calculate: coordinateExpression(1), as: "longitude" },
+                { calculate: coordinateExpression(0), as: "latitude" },
+                { filter: "isValid(datum.longitude) && isValid(datum.latitude)" }
+              ],
+              mark: { type: "circle", opacity: 0.84, stroke: "white", strokeWidth: 1.2 },
+              encoding: {
+                longitude: { field: "longitude", type: "quantitative" },
+                latitude: { field: "latitude", type: "quantitative" },
+                size: { field: "absolute_gap", type: "quantitative", title: "Absolute count gap", scale: { range: [70, 1500] }, legend: { orient: "bottom" } },
+                color: { field: "female_minus_male", type: "quantitative", title: "Female minus male reports", scale: { range: ["#f6f2ff", "#e1d7fb", "#c3aef0", "#8368be", "#2f1e4f"], domainMid: 0 }, legend: { orient: "bottom" } },
+                tooltip: [
+                  { field: "PHN name", type: "nominal", title: "Primary Health Network" },
+                  { field: "Female", type: "quantitative", title: "Female reports", format: "," },
+                  { field: "Male", type: "quantitative", title: "Male reports", format: "," },
+                  { field: "female_minus_male", type: "quantitative", title: "Female minus male", format: "," }
+                ]
+              }
+            }
+          ],
+          config: commonConfig
+        }],
+
+        ["#chart-response-waffle", {
+          $schema: "https://vega.github.io/schema/vega-lite/v6.json",
+          width: 360,
+          height: 360,
+          data: { values: [] },
+          mark: { type: "rect", stroke: "#fff", strokeWidth: 2, cornerRadius: 2 },
+          encoding: {
+            x: { field: "column", type: "ordinal", title: null, axis: null, scale: { paddingInner: 0.04, paddingOuter: 0.02 } },
+            y: { field: "row", type: "ordinal", title: null, axis: null, sort: "descending", scale: { paddingInner: 0.04, paddingOuter: 0.02 } },
+            color: { field: "response", type: "nominal", title: "Reported response", scale: { domain: ["Has condition", "No condition", "Not stated"], range: ["#56428c", "#b8d8c8", "#c8b9eb"] }, legend: { orient: "bottom", direction: "horizontal" } },
+            tooltip: [
+              { field: "response", type: "nominal", title: "Response" },
+              { field: "share_percent", type: "quantitative", title: "Share of responses (%)", format: ".1f" },
+              { field: "response_count", type: "quantitative", title: "Responses summed across states", format: "," }
+            ]
+          },
+          config: commonConfig
+        }]
+      ];
+
+      async function renderDashboard() {
+        const [boundaryResponse, mentalResponse, hysterectomyResponse] = await Promise.all([
+          fetch(boundaryUrl),
+          fetch("mental_health.json"),
+          fetch("hysterectomy_state.json")
+        ]);
+
+        if (!boundaryResponse.ok || !mentalResponse.ok || !hysterectomyResponse.ok) {
+          throw new Error("Unable to load the state map datasets.");
+        }
+
+        const [boundary, mentalRows, hysterectomyRows] = await Promise.all([
+          boundaryResponse.json(),
+          mentalResponse.json(),
+          hysterectomyResponse.json()
+        ]);
+
+        const stateCodeByName = {
+          "New South Wales": "NSW",
+          "Victoria": "Vic",
+          "Queensland": "QLD",
+          "Western Australia": "WA",
+          "South Australia": "SA",
+          "Tasmania": "Tas",
+          "Australian Capital Territory": "ACT",
+          "Northern Territory": "NT"
+        };
+        const hysterectomyCodeByName = { ...stateCodeByName, "Queensland": "Qld" };
+
+        const statePopulationTotals = new Map(
+          mentalRows
+            .filter((row) => row.response === "Total")
+            .map((row) => [row.state, Number(row.count)])
+        );
+        const reportedByState = new Map(
+          mentalRows
+            .filter((row) => row.response === "Has a mental health condition")
+            .map((row) => [row.state, Number(row.count)])
+        );
+        const hysterectomiesByState = new Map(
+          hysterectomyRows
+            .filter((row) => row.Year === "2014–15")
+            .map((row) => [row.State, row])
+        );
+
+        charts[0][1].data = {
+          values: boundary.features.map((feature) => {
+            const stateCode = stateCodeByName[feature.properties.STATE_NAME];
+            const reportedCount = reportedByState.get(stateCode) ?? null;
+            const totalPopulation = statePopulationTotals.get(stateCode) ?? null;
+            const landAreaSqKm = stateAreaSqKm[stateCode] ?? null;
+            const reportedPerKm2 = reportedCount !== null && landAreaSqKm ? reportedCount / landAreaSqKm : null;
+
+            return {
+              ...feature,
+              state_code: stateCode,
+              reported_count: reportedCount,
+              reported_per_km2: reportedPerKm2,
+              reported_rate_per_100k: totalPopulation ? (reportedCount / totalPopulation) * 100000 : null
+            };
+          })
+        };
+
+        charts[2][1].data = {
+          values: boundary.features.map((feature) => {
+            const stateCode = hysterectomyCodeByName[feature.properties.STATE_NAME];
+            const record = hysterectomiesByState.get(stateCode);
+
+            return {
+              ...feature,
+              state_code: stateCode,
+              rate: record?.["Age standardised rate per 100,000"] ?? null,
+              hospitalisations: record?.Hospitalisations ?? null
+            };
+          })
+        };
+
+        const responseTypes = [
+          { source: "Has a mental health condition", label: "Has condition" },
+          { source: "Does not have a mental health condition", label: "No condition" },
+          { source: "Not stated", label: "Not stated" }
+        ];
+
+        const responseCounts = responseTypes.map((response) => ({
+          ...response,
+          count: mentalRows
+            .filter((row) => row.response === response.source)
+            .reduce((sum, row) => sum + Number(row.count), 0)
+        }));
+
+        const totalResponses = responseCounts.reduce((sum, response) => sum + response.count, 0);
+
+        for (const response of responseCounts) {
+          const exactCells = (response.count / totalResponses) * 100;
+          response.cells = Math.floor(exactCells);
+          response.remainder = exactCells - response.cells;
+          response.share = (response.count / totalResponses) * 100;
+        }
+
+        const unassignedCells = 100 - responseCounts.reduce((sum, response) => sum + response.cells, 0);
+        [...responseCounts]
+          .sort((first, second) => second.remainder - first.remainder)
+          .slice(0, unassignedCells)
+          .forEach((response) => response.cells += 1);
+
+        responseCounts.sort((first, second) => second.count - first.count);
+
+        const waffleValues = [];
+        for (const response of responseCounts) {
+          for (let cell = 0; cell < response.cells; cell += 1) {
+            waffleValues.push({
+              column: waffleValues.length % 10,
+              row: Math.floor(waffleValues.length / 10),
+              response: response.label,
+              response_count: response.count,
+              share_percent: response.share
+            });
+          }
+        }
+
+        charts[11][1].data.values = waffleValues;
+
+        charts.forEach(([selector, spec]) => {
+          vegaEmbed(selector, spec, { actions: false, renderer: "svg" }).catch((error) => {
+            console.error(`Unable to render ${selector}`, error);
+          });
+        });
+      }
+
+      renderDashboard().catch((error) => console.error("Unable to prepare dashboard data", error));
+    </script>
+  </body>
+</html>

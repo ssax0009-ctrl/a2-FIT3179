@@ -1,0 +1,82 @@
+vegaEmbed("#chart-map", {
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+
+  "width": 550,
+  "height": 450,
+
+  "projection": {
+    "type": "mercator"
+  },
+
+  "data": {
+    "url": "au-states.json",
+    "format": {
+      "type": "json",
+      "property": "features"
+    }
+  },
+
+  "transform": [
+    {
+      "calculate":
+        "datum.properties.STATE_NAME == 'New South Wales' ? 'NSW' : " +
+        "datum.properties.STATE_NAME == 'Victoria' ? 'Vic' : " +
+        "datum.properties.STATE_NAME == 'Queensland' ? 'QLD' : " +
+        "datum.properties.STATE_NAME == 'Western Australia' ? 'WA' : " +
+        "datum.properties.STATE_NAME == 'South Australia' ? 'SA' : " +
+        "datum.properties.STATE_NAME == 'Tasmania' ? 'Tas' : " +
+        "datum.properties.STATE_NAME == 'Australian Capital Territory' ? 'ACT' : " +
+        "datum.properties.STATE_NAME == 'Northern Territory' ? 'NT' : null",
+
+      "as": "state_abbr"
+    },
+
+    {
+      "lookup": "state_abbr",
+
+      "from": {
+        "data": {
+          "url": "mental_health.json"
+        },
+        "key": "state",
+        "fields": ["count", "response"]
+      }
+    }
+  ],
+
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 1
+  },
+
+  "encoding": {
+    "color": {
+      "field": "count",
+      "type": "quantitative",
+      "title": "Reported count",
+      "scale": {
+        "scheme": "blues"
+      }
+    },
+
+    "tooltip": [
+      {
+        "field": "state_abbr",
+        "type": "nominal",
+        "title": "State"
+      },
+      {
+        "field": "response",
+        "type": "nominal",
+        "title": "Response"
+      },
+      {
+        "field": "count",
+        "type": "quantitative",
+        "title": "Count"
+      }
+    ]
+  }
+
+}).catch(console.error);

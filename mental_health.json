@@ -1,0 +1,41 @@
+[
+  { "state": "NSW", "response": "Has a mental health condition", "count": 646412 },
+  { "state": "NSW", "response": "Does not have a mental health condition", "count": 6770919 },
+  { "state": "NSW", "response": "Not stated", "count": 654833 },
+  { "state": "NSW", "response": "Total", "count": 8072163 },
+
+  { "state": "Vic", "response": "Has a mental health condition", "count": 571150 },
+  { "state": "Vic", "response": "Does not have a mental health condition", "count": 5439626 },
+  { "state": "Vic", "response": "Not stated", "count": 492709 },
+  { "state": "Vic", "response": "Total", "count": 6503491 },
+
+  { "state": "QLD", "response": "Has a mental health condition", "count": 496662 },
+  { "state": "QLD", "response": "Does not have a mental health condition", "count": 4199913 },
+  { "state": "QLD", "response": "Not stated", "count": 459562 },
+  { "state": "QLD", "response": "Total", "count": 5156138 },
+
+  { "state": "WA", "response": "Has a mental health condition", "count": 220581 },
+  { "state": "WA", "response": "Does not have a mental health condition", "count": 2204018 },
+  { "state": "WA", "response": "Not stated", "count": 235428 },
+  { "state": "WA", "response": "Total", "count": 2660026 },
+
+  { "state": "SA", "response": "Has a mental health condition", "count": 175203 },
+  { "state": "SA", "response": "Does not have a mental health condition", "count": 1482931 },
+  { "state": "SA", "response": "Not stated", "count": 123383 },
+  { "state": "SA", "response": "Total", "count": 1781516 },
+
+  { "state": "Tas", "response": "Has a mental health condition", "count": 63861 },
+  { "state": "Tas", "response": "Does not have a mental health condition", "count": 450062 },
+  { "state": "Tas", "response": "Not stated", "count": 43649 },
+  { "state": "Tas", "response": "Total", "count": 557571 },
+
+  { "state": "ACT", "response": "Has a mental health condition", "count": 45517 },
+  { "state": "ACT", "response": "Does not have a mental health condition", "count": 381676 },
+  { "state": "ACT", "response": "Not stated", "count": 27308 },
+  { "state": "ACT", "response": "Total", "count": 454499 },
+
+  { "state": "NT", "response": "Has a mental health condition", "count": 11979 },
+  { "state": "NT", "response": "Does not have a mental health condition", "count": 192228 },
+  { "state": "NT", "response": "Not stated", "count": 28397 },
+  { "state": "NT", "response": "Total", "count": 232605 }
+]

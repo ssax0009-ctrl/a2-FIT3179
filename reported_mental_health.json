@@ -1,0 +1,1325 @@
+[
+  {
+    "PHN code":"PHN101",
+    "PHN name":"Central and Eastern Sydney",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":40135.0
+  },
+  {
+    "PHN code":"PHN101",
+    "PHN name":"Central and Eastern Sydney",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":62276.0
+  },
+  {
+    "PHN code":"PHN101",
+    "PHN name":"Central and Eastern Sydney",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":102412.0
+  },
+  {
+    "PHN code":"PHN102",
+    "PHN name":"Northern Sydney",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21104.0
+  },
+  {
+    "PHN code":"PHN102",
+    "PHN name":"Northern Sydney",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":33812.0
+  },
+  {
+    "PHN code":"PHN102",
+    "PHN name":"Northern Sydney",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":54911.0
+  },
+  {
+    "PHN code":"PHN103",
+    "PHN name":"Western Sydney",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21835.0
+  },
+  {
+    "PHN code":"PHN103",
+    "PHN name":"Western Sydney",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":33388.0
+  },
+  {
+    "PHN code":"PHN103",
+    "PHN name":"Western Sydney",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":55219.0
+  },
+  {
+    "PHN code":"PHN104",
+    "PHN name":"Nepean Blue Mountains",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14237.0
+  },
+  {
+    "PHN code":"PHN104",
+    "PHN name":"Nepean Blue Mountains",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22515.0
+  },
+  {
+    "PHN code":"PHN104",
+    "PHN name":"Nepean Blue Mountains",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":36753.0
+  },
+  {
+    "PHN code":"PHN105",
+    "PHN name":"South Western Sydney",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25207.0
+  },
+  {
+    "PHN code":"PHN105",
+    "PHN name":"South Western Sydney",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":39150.0
+  },
+  {
+    "PHN code":"PHN105",
+    "PHN name":"South Western Sydney",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":64353.0
+  },
+  {
+    "PHN code":"PHN106",
+    "PHN name":"South Eastern NSW",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25796.0
+  },
+  {
+    "PHN code":"PHN106",
+    "PHN name":"South Eastern NSW",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":40177.0
+  },
+  {
+    "PHN code":"PHN106",
+    "PHN name":"South Eastern NSW",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":65970.0
+  },
+  {
+    "PHN code":"PHN107",
+    "PHN name":"Western NSW",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12217.0
+  },
+  {
+    "PHN code":"PHN107",
+    "PHN name":"Western NSW",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":18217.0
+  },
+  {
+    "PHN code":"PHN107",
+    "PHN name":"Western NSW",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":30431.0
+  },
+  {
+    "PHN code":"PHN108",
+    "PHN name":"Hunter New England and Central Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":58422.0
+  },
+  {
+    "PHN code":"PHN108",
+    "PHN name":"Hunter New England and Central Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":89967.0
+  },
+  {
+    "PHN code":"PHN108",
+    "PHN name":"Hunter New England and Central Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":148390.0
+  },
+  {
+    "PHN code":"PHN109",
+    "PHN name":"North Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23576.0
+  },
+  {
+    "PHN code":"PHN109",
+    "PHN name":"North Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":33695.0
+  },
+  {
+    "PHN code":"PHN109",
+    "PHN name":"North Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":57272.0
+  },
+  {
+    "PHN code":"PHN110",
+    "PHN name":"Murrumbidgee",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9016.0
+  },
+  {
+    "PHN code":"PHN110",
+    "PHN name":"Murrumbidgee",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13704.0
+  },
+  {
+    "PHN code":"PHN110",
+    "PHN name":"Murrumbidgee",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22716.0
+  },
+  {
+    "PHN code":"PHN201",
+    "PHN name":"North Western Melbourne",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":56566.0
+  },
+  {
+    "PHN code":"PHN201",
+    "PHN name":"North Western Melbourne",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":91948.0
+  },
+  {
+    "PHN code":"PHN201",
+    "PHN name":"North Western Melbourne",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":148511.0
+  },
+  {
+    "PHN code":"PHN202",
+    "PHN name":"Eastern Melbourne",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":45156.0
+  },
+  {
+    "PHN code":"PHN202",
+    "PHN name":"Eastern Melbourne",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":74672.0
+  },
+  {
+    "PHN code":"PHN202",
+    "PHN name":"Eastern Melbourne",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":119826.0
+  },
+  {
+    "PHN code":"PHN203",
+    "PHN name":"South Eastern Melbourne",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":49202.0
+  },
+  {
+    "PHN code":"PHN203",
+    "PHN name":"South Eastern Melbourne",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":80733.0
+  },
+  {
+    "PHN code":"PHN203",
+    "PHN name":"South Eastern Melbourne",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":129934.0
+  },
+  {
+    "PHN code":"PHN204",
+    "PHN name":"Gippsland",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12920.0
+  },
+  {
+    "PHN code":"PHN204",
+    "PHN name":"Gippsland",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20076.0
+  },
+  {
+    "PHN code":"PHN204",
+    "PHN name":"Gippsland",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32993.0
+  },
+  {
+    "PHN code":"PHN205",
+    "PHN name":"Murray",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":27452.0
+  },
+  {
+    "PHN code":"PHN205",
+    "PHN name":"Murray",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":42241.0
+  },
+  {
+    "PHN code":"PHN205",
+    "PHN name":"Murray",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":69696.0
+  },
+  {
+    "PHN code":"PHN206",
+    "PHN name":"Western Victoria",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":29207.0
+  },
+  {
+    "PHN code":"PHN206",
+    "PHN name":"Western Victoria",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":46040.0
+  },
+  {
+    "PHN code":"PHN206",
+    "PHN name":"Western Victoria",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":75241.0
+  },
+  {
+    "PHN code":"PHN301",
+    "PHN name":"Brisbane North",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":43699.0
+  },
+  {
+    "PHN code":"PHN301",
+    "PHN name":"Brisbane North",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":67796.0
+  },
+  {
+    "PHN code":"PHN301",
+    "PHN name":"Brisbane North",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":111498.0
+  },
+  {
+    "PHN code":"PHN302",
+    "PHN name":"Brisbane South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":42978.0
+  },
+  {
+    "PHN code":"PHN302",
+    "PHN name":"Brisbane South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":67104.0
+  },
+  {
+    "PHN code":"PHN302",
+    "PHN name":"Brisbane South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":110084.0
+  },
+  {
+    "PHN code":"PHN303",
+    "PHN name":"Gold Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21182.0
+  },
+  {
+    "PHN code":"PHN303",
+    "PHN name":"Gold Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32592.0
+  },
+  {
+    "PHN code":"PHN303",
+    "PHN name":"Gold Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":53775.0
+  },
+  {
+    "PHN code":"PHN304",
+    "PHN name":"Darling Downs and West Moreton",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":26984.0
+  },
+  {
+    "PHN code":"PHN304",
+    "PHN name":"Darling Downs and West Moreton",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":40068.0
+  },
+  {
+    "PHN code":"PHN304",
+    "PHN name":"Darling Downs and West Moreton",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":67055.0
+  },
+  {
+    "PHN code":"PHN305",
+    "PHN name":"Western Queensland",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1484.0
+  },
+  {
+    "PHN code":"PHN305",
+    "PHN name":"Western Queensland",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":2303.0
+  },
+  {
+    "PHN code":"PHN305",
+    "PHN name":"Western Queensland",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":3791.0
+  },
+  {
+    "PHN code":"PHN306",
+    "PHN name":"Central Queensland, Wide Bay, Sunshine Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":36924.0
+  },
+  {
+    "PHN code":"PHN306",
+    "PHN name":"Central Queensland, Wide Bay, Sunshine Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":54065.0
+  },
+  {
+    "PHN code":"PHN306",
+    "PHN name":"Central Queensland, Wide Bay, Sunshine Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":90986.0
+  },
+  {
+    "PHN code":"PHN307",
+    "PHN name":"Northern Queensland",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23375.0
+  },
+  {
+    "PHN code":"PHN307",
+    "PHN name":"Northern Queensland",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":34190.0
+  },
+  {
+    "PHN code":"PHN307",
+    "PHN name":"Northern Queensland",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":57562.0
+  },
+  {
+    "PHN code":"PHN501",
+    "PHN name":"Perth North",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":34689.0
+  },
+  {
+    "PHN code":"PHN501",
+    "PHN name":"Perth North",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":55677.0
+  },
+  {
+    "PHN code":"PHN501",
+    "PHN name":"Perth North",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":90366.0
+  },
+  {
+    "PHN code":"PHN502",
+    "PHN name":"Perth South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":33336.0
+  },
+  {
+    "PHN code":"PHN502",
+    "PHN name":"Perth South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":53835.0
+  },
+  {
+    "PHN code":"PHN502",
+    "PHN name":"Perth South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":87166.0
+  },
+  {
+    "PHN code":"PHN503",
+    "PHN name":"Country WA",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16675.0
+  },
+  {
+    "PHN code":"PHN503",
+    "PHN name":"Country WA",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25723.0
+  },
+  {
+    "PHN code":"PHN503",
+    "PHN name":"Country WA",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":42399.0
+  },
+  {
+    "PHN code":"PHN401",
+    "PHN name":"Adelaide",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":48491.0
+  },
+  {
+    "PHN code":"PHN401",
+    "PHN name":"Adelaide",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":75317.0
+  },
+  {
+    "PHN code":"PHN401",
+    "PHN name":"Adelaide",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":123810.0
+  },
+  {
+    "PHN code":"PHN402",
+    "PHN name":"Country SA",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20392.0
+  },
+  {
+    "PHN code":"PHN402",
+    "PHN name":"Country SA",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":30422.0
+  },
+  {
+    "PHN code":"PHN402",
+    "PHN name":"Country SA",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":50816.0
+  },
+  {
+    "PHN code":"PHN601",
+    "PHN name":"Tasmania",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":24848.0
+  },
+  {
+    "PHN code":"PHN601",
+    "PHN name":"Tasmania",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":38719.0
+  },
+  {
+    "PHN code":"PHN601",
+    "PHN name":"Tasmania",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":63571.0
+  },
+  {
+    "PHN code":"PHN801",
+    "PHN name":"Australian Capital Territory",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17407.0
+  },
+  {
+    "PHN code":"PHN801",
+    "PHN name":"Australian Capital Territory",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28002.0
+  },
+  {
+    "PHN code":"PHN801",
+    "PHN name":"Australian Capital Territory",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":45408.0
+  },
+  {
+    "PHN code":"PHN701",
+    "PHN name":"Northern Territory",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4778.0
+  },
+  {
+    "PHN code":"PHN701",
+    "PHN name":"Northern Territory",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6960.0
+  },
+  {
+    "PHN code":"PHN701",
+    "PHN name":"Northern Territory",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11740.0
+  },
+  {
+    "PHN code":"PHN101",
+    "PHN name":"Central and Eastern Sydney",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.2467275767
+  },
+  {
+    "PHN code":"PHN101",
+    "PHN name":"Central and Eastern Sydney",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0097028065
+  },
+  {
+    "PHN code":"PHN101",
+    "PHN name":"Central and Eastern Sydney",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.6395410955
+  },
+  {
+    "PHN code":"PHN102",
+    "PHN name":"Northern Sydney",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.7156404458
+  },
+  {
+    "PHN code":"PHN102",
+    "PHN name":"Northern Sydney",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.1221542558
+  },
+  {
+    "PHN code":"PHN102",
+    "PHN name":"Northern Sydney",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.9538253526
+  },
+  {
+    "PHN code":"PHN103",
+    "PHN name":"Western Sydney",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.1261094765
+  },
+  {
+    "PHN code":"PHN103",
+    "PHN name":"Western Sydney",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.3741764525
+  },
+  {
+    "PHN code":"PHN103",
+    "PHN name":"Western Sydney",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.2440194114
+  },
+  {
+    "PHN code":"PHN104",
+    "PHN name":"Nepean Blue Mountains",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5153479484
+  },
+  {
+    "PHN code":"PHN104",
+    "PHN name":"Nepean Blue Mountains",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.5814922456
+  },
+  {
+    "PHN code":"PHN104",
+    "PHN name":"Nepean Blue Mountains",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.5749835871
+  },
+  {
+    "PHN code":"PHN105",
+    "PHN name":"South Western Sydney",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.8176214822
+  },
+  {
+    "PHN code":"PHN105",
+    "PHN name":"South Western Sydney",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.3061218396
+  },
+  {
+    "PHN code":"PHN105",
+    "PHN name":"South Western Sydney",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.0763402025
+  },
+  {
+    "PHN code":"PHN106",
+    "PHN name":"South Eastern NSW",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.1251850499
+  },
+  {
+    "PHN code":"PHN106",
+    "PHN name":"South Eastern NSW",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.3770443826
+  },
+  {
+    "PHN code":"PHN106",
+    "PHN name":"South Eastern NSW",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.2742926203
+  },
+  {
+    "PHN code":"PHN107",
+    "PHN name":"Western NSW",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.9179493827
+  },
+  {
+    "PHN code":"PHN107",
+    "PHN name":"Western NSW",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.6969089905
+  },
+  {
+    "PHN code":"PHN107",
+    "PHN name":"Western NSW",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8152801117
+  },
+  {
+    "PHN code":"PHN108",
+    "PHN name":"Hunter New England and Central Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1379323829
+  },
+  {
+    "PHN code":"PHN108",
+    "PHN name":"Hunter New England and Central Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.5179561767
+  },
+  {
+    "PHN code":"PHN108",
+    "PHN name":"Hunter New England and Central Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.3719356354
+  },
+  {
+    "PHN code":"PHN109",
+    "PHN name":"North Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.9603064808
+  },
+  {
+    "PHN code":"PHN109",
+    "PHN name":"North Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.1030890805
+  },
+  {
+    "PHN code":"PHN109",
+    "PHN name":"North Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.5762145971
+  },
+  {
+    "PHN code":"PHN110",
+    "PHN name":"Murrumbidgee",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.3096380854
+  },
+  {
+    "PHN code":"PHN110",
+    "PHN name":"Murrumbidgee",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9916904617
+  },
+  {
+    "PHN code":"PHN110",
+    "PHN name":"Murrumbidgee",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1591973001
+  },
+  {
+    "PHN code":"PHN201",
+    "PHN name":"North Western Melbourne",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.248639883
+  },
+  {
+    "PHN code":"PHN201",
+    "PHN name":"North Western Melbourne",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9949562147
+  },
+  {
+    "PHN code":"PHN201",
+    "PHN name":"North Western Melbourne",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.1367062642
+  },
+  {
+    "PHN code":"PHN202",
+    "PHN name":"Eastern Melbourne",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.0649935866
+  },
+  {
+    "PHN code":"PHN202",
+    "PHN name":"Eastern Melbourne",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.6296544663
+  },
+  {
+    "PHN code":"PHN202",
+    "PHN name":"Eastern Melbourne",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.8834398814
+  },
+  {
+    "PHN code":"PHN203",
+    "PHN name":"South Eastern Melbourne",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.3821204122
+  },
+  {
+    "PHN code":"PHN203",
+    "PHN name":"South Eastern Melbourne",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0708664266
+  },
+  {
+    "PHN code":"PHN203",
+    "PHN name":"South Eastern Melbourne",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2624731333
+  },
+  {
+    "PHN code":"PHN204",
+    "PHN name":"Gippsland",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.7395912956
+  },
+  {
+    "PHN code":"PHN204",
+    "PHN name":"Gippsland",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.1202823253
+  },
+  {
+    "PHN code":"PHN204",
+    "PHN name":"Gippsland",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9666675531
+  },
+  {
+    "PHN code":"PHN205",
+    "PHN name":"Murray",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.695982717
+  },
+  {
+    "PHN code":"PHN205",
+    "PHN name":"Murray",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.9589122625
+  },
+  {
+    "PHN code":"PHN205",
+    "PHN name":"Murray",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.862030272
+  },
+  {
+    "PHN code":"PHN206",
+    "PHN name":"Western Victoria",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.6255064794
+  },
+  {
+    "PHN code":"PHN206",
+    "PHN name":"Western Victoria",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.094462726
+  },
+  {
+    "PHN code":"PHN206",
+    "PHN name":"Western Victoria",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9010802415
+  },
+  {
+    "PHN code":"PHN301",
+    "PHN name":"Brisbane North",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.5296798662
+  },
+  {
+    "PHN code":"PHN301",
+    "PHN name":"Brisbane North",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.7265047915
+  },
+  {
+    "PHN code":"PHN301",
+    "PHN name":"Brisbane North",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.6692873075
+  },
+  {
+    "PHN code":"PHN302",
+    "PHN name":"Brisbane South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.321535652
+  },
+  {
+    "PHN code":"PHN302",
+    "PHN name":"Brisbane South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.0899205077
+  },
+  {
+    "PHN code":"PHN302",
+    "PHN name":"Brisbane South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.2344679427
+  },
+  {
+    "PHN code":"PHN303",
+    "PHN name":"Gold Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.8085680857
+  },
+  {
+    "PHN code":"PHN303",
+    "PHN name":"Gold Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8889195676
+  },
+  {
+    "PHN code":"PHN303",
+    "PHN name":"Gold Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.3933340305
+  },
+  {
+    "PHN code":"PHN304",
+    "PHN name":"Darling Downs and West Moreton",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1614975368
+  },
+  {
+    "PHN code":"PHN304",
+    "PHN name":"Darling Downs and West Moreton",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.2098549712
+  },
+  {
+    "PHN code":"PHN304",
+    "PHN name":"Darling Downs and West Moreton",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.2158927637
+  },
+  {
+    "PHN code":"PHN305",
+    "PHN name":"Western Queensland",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.6641732407
+  },
+  {
+    "PHN code":"PHN305",
+    "PHN name":"Western Queensland",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5060295939
+  },
+  {
+    "PHN code":"PHN305",
+    "PHN name":"Western Queensland",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.0657941054
+  },
+  {
+    "PHN code":"PHN306",
+    "PHN name":"Central Queensland, Wide Bay, Sunshine Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.3613373067
+  },
+  {
+    "PHN code":"PHN306",
+    "PHN name":"Central Queensland, Wide Bay, Sunshine Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.8019567695
+  },
+  {
+    "PHN code":"PHN306",
+    "PHN name":"Central Queensland, Wide Bay, Sunshine Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.1129152907
+  },
+  {
+    "PHN code":"PHN307",
+    "PHN name":"Northern Queensland",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.6032565708
+  },
+  {
+    "PHN code":"PHN307",
+    "PHN name":"Northern Queensland",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.7854303271
+  },
+  {
+    "PHN code":"PHN307",
+    "PHN name":"Northern Queensland",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.1834763781
+  },
+  {
+    "PHN code":"PHN501",
+    "PHN name":"Perth North",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.420428991
+  },
+  {
+    "PHN code":"PHN501",
+    "PHN name":"Perth North",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0389643875
+  },
+  {
+    "PHN code":"PHN501",
+    "PHN name":"Perth North",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2533489329
+  },
+  {
+    "PHN code":"PHN502",
+    "PHN name":"Perth South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.5540122091
+  },
+  {
+    "PHN code":"PHN502",
+    "PHN name":"Perth South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.3470146744
+  },
+  {
+    "PHN code":"PHN502",
+    "PHN name":"Perth South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.4715271899
+  },
+  {
+    "PHN code":"PHN503",
+    "PHN name":"Country WA",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.1728166553
+  },
+  {
+    "PHN code":"PHN503",
+    "PHN name":"Country WA",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9023736748
+  },
+  {
+    "PHN code":"PHN503",
+    "PHN name":"Country WA",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0012606057
+  },
+  {
+    "PHN code":"PHN401",
+    "PHN name":"Adelaide",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.7911707242
+  },
+  {
+    "PHN code":"PHN401",
+    "PHN name":"Adelaide",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.6392312733
+  },
+  {
+    "PHN code":"PHN401",
+    "PHN name":"Adelaide",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.75279681
+  },
+  {
+    "PHN code":"PHN402",
+    "PHN name":"Country SA",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0180240399
+  },
+  {
+    "PHN code":"PHN402",
+    "PHN name":"Country SA",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.962000928
+  },
+  {
+    "PHN code":"PHN402",
+    "PHN name":"Country SA",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9904452212
+  },
+  {
+    "PHN code":"PHN601",
+    "PHN name":"Tasmania",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1021982571
+  },
+  {
+    "PHN code":"PHN601",
+    "PHN name":"Tasmania",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.6729771629
+  },
+  {
+    "PHN code":"PHN601",
+    "PHN name":"Tasmania",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.4301382671
+  },
+  {
+    "PHN code":"PHN801",
+    "PHN name":"Australian Capital Territory",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.7702189963
+  },
+  {
+    "PHN code":"PHN801",
+    "PHN name":"Australian Capital Territory",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.1817208932
+  },
+  {
+    "PHN code":"PHN801",
+    "PHN name":"Australian Capital Territory",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0041860363
+  },
+  {
+    "PHN code":"PHN701",
+    "PHN name":"Northern Territory",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.1326102563
+  },
+  {
+    "PHN code":"PHN701",
+    "PHN name":"Northern Territory",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.1382698193
+  },
+  {
+    "PHN code":"PHN701",
+    "PHN name":"Northern Territory",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.1265256217
+  },
+  {
+    "PHN code":null,
+    "PHN name":null,
+    "Sex":null,
+    "Count":null,
+    "Has a mental health condition (including depression or anxiety)":null
+  },
+  {
+    "PHN code":"Note: Data were extracted using the TableBuilder as at 25 May 2023. There may be some differences between the data here and that published elsewhere due to different calculation or estimation methodologies or extraction date. The Tablebuilder uses a randomisation technique to confidentialise small numbers. This can result in differences between the column sum and total and small variations in numbers from one data extract to another.",
+    "PHN name":null,
+    "Sex":null,
+    "Count":null,
+    "Has a mental health condition (including depression or anxiety)":null
+  },
+  {
+    "PHN code":"Source: ABS 2021, Census of Population and Housing.",
+    "PHN name":null,
+    "Sex":null,
+    "Count":null,
+    "Has a mental health condition (including depression or anxiety)":null
+  }
+]

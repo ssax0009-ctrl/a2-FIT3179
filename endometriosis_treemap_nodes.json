@@ -1,0 +1,191 @@
+[
+  {
+    "id": "root",
+    "parent": null,
+    "name": "All procedures",
+    "value": null,
+    "sector": null
+  },
+  {
+    "id": "sector-Private",
+    "parent": "root",
+    "name": "Private",
+    "value": null,
+    "sector": "Private"
+  },
+  {
+    "id": "sector-Public",
+    "parent": "root",
+    "name": "Public",
+    "value": null,
+    "sector": "Public"
+  },
+  {
+    "id": "sector-nan",
+    "parent": "root",
+    "name": NaN,
+    "value": null,
+    "sector": NaN
+  },
+  {
+    "id": "sector-Source:\u00a0 National Hospital Morbidity Database.",
+    "parent": "root",
+    "name": "Source:\u00a0 National Hospital Morbidity Database.",
+    "value": null,
+    "sector": "Source:\u00a0 National Hospital Morbidity Database."
+  },
+  {
+    "id": "proc-0",
+    "parent": "sector-Private",
+    "name": "Laparoscopic excision of lesion of pelvic cavity",
+    "value": 10219.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-1",
+    "parent": "sector-Private",
+    "name": "Diagnostic hysteroscopy",
+    "value": 8769.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-2",
+    "parent": "sector-Private",
+    "name": "Dilation and curettage of uterus [D&C]",
+    "value": 7332.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-3",
+    "parent": "sector-Private",
+    "name": "Laparoscopic division of abdominal adhesions",
+    "value": 4926.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-4",
+    "parent": "sector-Private",
+    "name": "Test for tubal patency",
+    "value": 3459.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-5",
+    "parent": "sector-Private",
+    "name": "Insertion of intrauterine device [IUD]",
+    "value": 2922.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-6",
+    "parent": "sector-Private",
+    "name": "Cystoscopy",
+    "value": 2637.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-7",
+    "parent": "sector-Private",
+    "name": "Laparoscopic diathermy of lesion of pelvic cavity",
+    "value": 2375.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-8",
+    "parent": "sector-Private",
+    "name": "Laparoscopic total abdominal hysterectomy",
+    "value": 2056.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-9",
+    "parent": "sector-Private",
+    "name": "Laparoscopic salpingectomy, bilateral",
+    "value": 2045.0,
+    "sector": "Private"
+  },
+  {
+    "id": "proc-10",
+    "parent": "sector-Public",
+    "name": "Laparoscopic excision of lesion of pelvic cavity",
+    "value": 2551.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-11",
+    "parent": "sector-Public",
+    "name": "Diagnostic hysteroscopy",
+    "value": 2343.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-12",
+    "parent": "sector-Public",
+    "name": "Dilation and curettage of uterus [D&C]",
+    "value": 2128.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-13",
+    "parent": "sector-Public",
+    "name": "Laparoscopic division of abdominal adhesions",
+    "value": 1841.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-14",
+    "parent": "sector-Public",
+    "name": "Laparoscopic diathermy of lesion of pelvic cavity",
+    "value": 1140.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-15",
+    "parent": "sector-Public",
+    "name": "Insertion of intrauterine device [IUD]",
+    "value": 1036.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-16",
+    "parent": "sector-Public",
+    "name": "Test for tubal patency",
+    "value": 874.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-17",
+    "parent": "sector-Public",
+    "name": "Cystoscopy",
+    "value": 838.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-18",
+    "parent": "sector-Public",
+    "name": "Laparoscopic total abdominal hysterectomy",
+    "value": 837.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-19",
+    "parent": "sector-Public",
+    "name": "Laparoscopic salpingectomy, bilateral",
+    "value": 796.0,
+    "sector": "Public"
+  },
+  {
+    "id": "proc-20",
+    "parent": "sector-nan",
+    "name": NaN,
+    "value": NaN,
+    "sector": NaN
+  },
+  {
+    "id": "proc-21",
+    "parent": "sector-Source:\u00a0 National Hospital Morbidity Database.",
+    "name": NaN,
+    "value": NaN,
+    "sector": "Source:\u00a0 National Hospital Morbidity Database."
+  }
+]

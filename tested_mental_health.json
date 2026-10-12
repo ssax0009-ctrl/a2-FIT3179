@@ -1,0 +1,4076 @@
+[
+  {
+    "SA4 code":101,
+    "SA4":"Capital Region",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9550.0
+  },
+  {
+    "SA4 code":101,
+    "SA4":"Capital Region",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14294.0
+  },
+  {
+    "SA4 code":101,
+    "SA4":"Capital Region",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23847.0
+  },
+  {
+    "SA4 code":102,
+    "SA4":"Central Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14797.0
+  },
+  {
+    "SA4 code":102,
+    "SA4":"Central Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23189.0
+  },
+  {
+    "SA4 code":102,
+    "SA4":"Central Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":37984.0
+  },
+  {
+    "SA4 code":103,
+    "SA4":"Central West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8763.0
+  },
+  {
+    "SA4 code":103,
+    "SA4":"Central West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13098.0
+  },
+  {
+    "SA4 code":103,
+    "SA4":"Central West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21859.0
+  },
+  {
+    "SA4 code":104,
+    "SA4":"Coffs Harbour - Grafton",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6604.0
+  },
+  {
+    "SA4 code":104,
+    "SA4":"Coffs Harbour - Grafton",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9422.0
+  },
+  {
+    "SA4 code":104,
+    "SA4":"Coffs Harbour - Grafton",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16022.0
+  },
+  {
+    "SA4 code":105,
+    "SA4":"Far West and Orana",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4227.0
+  },
+  {
+    "SA4 code":105,
+    "SA4":"Far West and Orana",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6316.0
+  },
+  {
+    "SA4 code":105,
+    "SA4":"Far West and Orana",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10542.0
+  },
+  {
+    "SA4 code":106,
+    "SA4":"Hunter Valley exc Newcastle",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13660.0
+  },
+  {
+    "SA4 code":106,
+    "SA4":"Hunter Valley exc Newcastle",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21108.0
+  },
+  {
+    "SA4 code":106,
+    "SA4":"Hunter Valley exc Newcastle",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":34767.0
+  },
+  {
+    "SA4 code":107,
+    "SA4":"Illawarra",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11969.0
+  },
+  {
+    "SA4 code":107,
+    "SA4":"Illawarra",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19752.0
+  },
+  {
+    "SA4 code":107,
+    "SA4":"Illawarra",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":31725.0
+  },
+  {
+    "SA4 code":108,
+    "SA4":"Mid North Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10797.0
+  },
+  {
+    "SA4 code":108,
+    "SA4":"Mid North Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15357.0
+  },
+  {
+    "SA4 code":108,
+    "SA4":"Mid North Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":26154.0
+  },
+  {
+    "SA4 code":109,
+    "SA4":"Murray",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4948.0
+  },
+  {
+    "SA4 code":109,
+    "SA4":"Murray",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7621.0
+  },
+  {
+    "SA4 code":109,
+    "SA4":"Murray",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12567.0
+  },
+  {
+    "SA4 code":110,
+    "SA4":"New England and North West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6890.0
+  },
+  {
+    "SA4 code":110,
+    "SA4":"New England and North West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10616.0
+  },
+  {
+    "SA4 code":110,
+    "SA4":"New England and North West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17507.0
+  },
+  {
+    "SA4 code":111,
+    "SA4":"Newcastle and Lake Macquarie",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":18710.0
+  },
+  {
+    "SA4 code":111,
+    "SA4":"Newcastle and Lake Macquarie",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28972.0
+  },
+  {
+    "SA4 code":111,
+    "SA4":"Newcastle and Lake Macquarie",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":47681.0
+  },
+  {
+    "SA4 code":112,
+    "SA4":"Richmond - Tweed",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10550.0
+  },
+  {
+    "SA4 code":112,
+    "SA4":"Richmond - Tweed",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15013.0
+  },
+  {
+    "SA4 code":112,
+    "SA4":"Richmond - Tweed",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25565.0
+  },
+  {
+    "SA4 code":113,
+    "SA4":"Riverina",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5956.0
+  },
+  {
+    "SA4 code":113,
+    "SA4":"Riverina",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9135.0
+  },
+  {
+    "SA4 code":113,
+    "SA4":"Riverina",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15095.0
+  },
+  {
+    "SA4 code":114,
+    "SA4":"Southern Highlands and Shoalhaven",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6764.0
+  },
+  {
+    "SA4 code":114,
+    "SA4":"Southern Highlands and Shoalhaven",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10034.0
+  },
+  {
+    "SA4 code":114,
+    "SA4":"Southern Highlands and Shoalhaven",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16796.0
+  },
+  {
+    "SA4 code":115,
+    "SA4":"Sydney - Baulkham Hills and Hawkesbury",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5578.0
+  },
+  {
+    "SA4 code":115,
+    "SA4":"Sydney - Baulkham Hills and Hawkesbury",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8703.0
+  },
+  {
+    "SA4 code":115,
+    "SA4":"Sydney - Baulkham Hills and Hawkesbury",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14282.0
+  },
+  {
+    "SA4 code":116,
+    "SA4":"Sydney - Blacktown",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9362.0
+  },
+  {
+    "SA4 code":116,
+    "SA4":"Sydney - Blacktown",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14477.0
+  },
+  {
+    "SA4 code":116,
+    "SA4":"Sydney - Blacktown",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23835.0
+  },
+  {
+    "SA4 code":117,
+    "SA4":"Sydney - City and Inner South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11993.0
+  },
+  {
+    "SA4 code":117,
+    "SA4":"Sydney - City and Inner South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16760.0
+  },
+  {
+    "SA4 code":117,
+    "SA4":"Sydney - City and Inner South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28753.0
+  },
+  {
+    "SA4 code":118,
+    "SA4":"Sydney - Eastern Suburbs",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5931.0
+  },
+  {
+    "SA4 code":118,
+    "SA4":"Sydney - Eastern Suburbs",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10068.0
+  },
+  {
+    "SA4 code":118,
+    "SA4":"Sydney - Eastern Suburbs",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16001.0
+  },
+  {
+    "SA4 code":119,
+    "SA4":"Sydney - Inner South West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11958.0
+  },
+  {
+    "SA4 code":119,
+    "SA4":"Sydney - Inner South West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":18411.0
+  },
+  {
+    "SA4 code":119,
+    "SA4":"Sydney - Inner South West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":30363.0
+  },
+  {
+    "SA4 code":120,
+    "SA4":"Sydney - Inner West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7867.0
+  },
+  {
+    "SA4 code":120,
+    "SA4":"Sydney - Inner West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12768.0
+  },
+  {
+    "SA4 code":120,
+    "SA4":"Sydney - Inner West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20635.0
+  },
+  {
+    "SA4 code":121,
+    "SA4":"Sydney - North Sydney and Hornsby",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9800.0
+  },
+  {
+    "SA4 code":121,
+    "SA4":"Sydney - North Sydney and Hornsby",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15807.0
+  },
+  {
+    "SA4 code":121,
+    "SA4":"Sydney - North Sydney and Hornsby",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25613.0
+  },
+  {
+    "SA4 code":122,
+    "SA4":"Sydney - Northern Beaches",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6268.0
+  },
+  {
+    "SA4 code":122,
+    "SA4":"Sydney - Northern Beaches",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10149.0
+  },
+  {
+    "SA4 code":122,
+    "SA4":"Sydney - Northern Beaches",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16421.0
+  },
+  {
+    "SA4 code":123,
+    "SA4":"Sydney - Outer South West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8969.0
+  },
+  {
+    "SA4 code":123,
+    "SA4":"Sydney - Outer South West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14696.0
+  },
+  {
+    "SA4 code":123,
+    "SA4":"Sydney - Outer South West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23665.0
+  },
+  {
+    "SA4 code":124,
+    "SA4":"Sydney - Outer West and Blue Mountains",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12449.0
+  },
+  {
+    "SA4 code":124,
+    "SA4":"Sydney - Outer West and Blue Mountains",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19771.0
+  },
+  {
+    "SA4 code":124,
+    "SA4":"Sydney - Outer West and Blue Mountains",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32225.0
+  },
+  {
+    "SA4 code":125,
+    "SA4":"Sydney - Parramatta",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9438.0
+  },
+  {
+    "SA4 code":125,
+    "SA4":"Sydney - Parramatta",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14068.0
+  },
+  {
+    "SA4 code":125,
+    "SA4":"Sydney - Parramatta",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23507.0
+  },
+  {
+    "SA4 code":126,
+    "SA4":"Sydney - Ryde",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4375.0
+  },
+  {
+    "SA4 code":126,
+    "SA4":"Sydney - Ryde",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6730.0
+  },
+  {
+    "SA4 code":126,
+    "SA4":"Sydney - Ryde",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11103.0
+  },
+  {
+    "SA4 code":127,
+    "SA4":"Sydney - South West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9550.0
+  },
+  {
+    "SA4 code":127,
+    "SA4":"Sydney - South West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14422.0
+  },
+  {
+    "SA4 code":127,
+    "SA4":"Sydney - South West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23971.0
+  },
+  {
+    "SA4 code":128,
+    "SA4":"Sydney - Sutherland",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6259.0
+  },
+  {
+    "SA4 code":128,
+    "SA4":"Sydney - Sutherland",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10083.0
+  },
+  {
+    "SA4 code":128,
+    "SA4":"Sydney - Sutherland",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16340.0
+  },
+  {
+    "SA4 code":199,
+    "SA4":"No usual address (NSW)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":755.0
+  },
+  {
+    "SA4 code":199,
+    "SA4":"No usual address (NSW)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":830.0
+  },
+  {
+    "SA4 code":199,
+    "SA4":"No usual address (NSW)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1585.0
+  },
+  {
+    "SA4 code":201,
+    "SA4":"Ballarat",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8533.0
+  },
+  {
+    "SA4 code":201,
+    "SA4":"Ballarat",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13220.0
+  },
+  {
+    "SA4 code":201,
+    "SA4":"Ballarat",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21746.0
+  },
+  {
+    "SA4 code":202,
+    "SA4":"Bendigo",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7758.0
+  },
+  {
+    "SA4 code":202,
+    "SA4":"Bendigo",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12530.0
+  },
+  {
+    "SA4 code":202,
+    "SA4":"Bendigo",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20292.0
+  },
+  {
+    "SA4 code":203,
+    "SA4":"Geelong",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13153.0
+  },
+  {
+    "SA4 code":203,
+    "SA4":"Geelong",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21571.0
+  },
+  {
+    "SA4 code":203,
+    "SA4":"Geelong",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":34722.0
+  },
+  {
+    "SA4 code":204,
+    "SA4":"Hume",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8022.0
+  },
+  {
+    "SA4 code":204,
+    "SA4":"Hume",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11832.0
+  },
+  {
+    "SA4 code":204,
+    "SA4":"Hume",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19857.0
+  },
+  {
+    "SA4 code":205,
+    "SA4":"Latrobe - Gippsland",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12920.0
+  },
+  {
+    "SA4 code":205,
+    "SA4":"Latrobe - Gippsland",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20076.0
+  },
+  {
+    "SA4 code":205,
+    "SA4":"Latrobe - Gippsland",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32993.0
+  },
+  {
+    "SA4 code":206,
+    "SA4":"Melbourne - Inner",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":24103.0
+  },
+  {
+    "SA4 code":206,
+    "SA4":"Melbourne - Inner",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":39627.0
+  },
+  {
+    "SA4 code":206,
+    "SA4":"Melbourne - Inner",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":63732.0
+  },
+  {
+    "SA4 code":207,
+    "SA4":"Melbourne - Inner East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9559.0
+  },
+  {
+    "SA4 code":207,
+    "SA4":"Melbourne - Inner East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15811.0
+  },
+  {
+    "SA4 code":207,
+    "SA4":"Melbourne - Inner East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25372.0
+  },
+  {
+    "SA4 code":208,
+    "SA4":"Melbourne - Inner South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12234.0
+  },
+  {
+    "SA4 code":208,
+    "SA4":"Melbourne - Inner South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20641.0
+  },
+  {
+    "SA4 code":208,
+    "SA4":"Melbourne - Inner South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32870.0
+  },
+  {
+    "SA4 code":209,
+    "SA4":"Melbourne - North East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17189.0
+  },
+  {
+    "SA4 code":209,
+    "SA4":"Melbourne - North East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28542.0
+  },
+  {
+    "SA4 code":209,
+    "SA4":"Melbourne - North East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":45732.0
+  },
+  {
+    "SA4 code":210,
+    "SA4":"Melbourne - North West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11978.0
+  },
+  {
+    "SA4 code":210,
+    "SA4":"Melbourne - North West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19453.0
+  },
+  {
+    "SA4 code":210,
+    "SA4":"Melbourne - North West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":31434.0
+  },
+  {
+    "SA4 code":211,
+    "SA4":"Melbourne - Outer East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17725.0
+  },
+  {
+    "SA4 code":211,
+    "SA4":"Melbourne - Outer East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":29592.0
+  },
+  {
+    "SA4 code":211,
+    "SA4":"Melbourne - Outer East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":47313.0
+  },
+  {
+    "SA4 code":212,
+    "SA4":"Melbourne - South East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22919.0
+  },
+  {
+    "SA4 code":212,
+    "SA4":"Melbourne - South East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":36900.0
+  },
+  {
+    "SA4 code":212,
+    "SA4":"Melbourne - South East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":59821.0
+  },
+  {
+    "SA4 code":213,
+    "SA4":"Melbourne - West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22763.0
+  },
+  {
+    "SA4 code":213,
+    "SA4":"Melbourne - West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":36569.0
+  },
+  {
+    "SA4 code":213,
+    "SA4":"Melbourne - West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":59330.0
+  },
+  {
+    "SA4 code":214,
+    "SA4":"Mornington Peninsula",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12455.0
+  },
+  {
+    "SA4 code":214,
+    "SA4":"Mornington Peninsula",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":20212.0
+  },
+  {
+    "SA4 code":214,
+    "SA4":"Mornington Peninsula",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32659.0
+  },
+  {
+    "SA4 code":215,
+    "SA4":"North West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6115.0
+  },
+  {
+    "SA4 code":215,
+    "SA4":"North West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9124.0
+  },
+  {
+    "SA4 code":215,
+    "SA4":"North West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15240.0
+  },
+  {
+    "SA4 code":216,
+    "SA4":"Shepparton",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5640.0
+  },
+  {
+    "SA4 code":216,
+    "SA4":"Shepparton",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8510.0
+  },
+  {
+    "SA4 code":216,
+    "SA4":"Shepparton",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14150.0
+  },
+  {
+    "SA4 code":217,
+    "SA4":"Warrnambool and South West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4932.0
+  },
+  {
+    "SA4 code":217,
+    "SA4":"Warrnambool and South West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7479.0
+  },
+  {
+    "SA4 code":217,
+    "SA4":"Warrnambool and South West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12410.0
+  },
+  {
+    "SA4 code":299,
+    "SA4":"No usual address (Vic.)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":700.0
+  },
+  {
+    "SA4 code":299,
+    "SA4":"No usual address (Vic.)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":772.0
+  },
+  {
+    "SA4 code":299,
+    "SA4":"No usual address (Vic.)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1470.0
+  },
+  {
+    "SA4 code":301,
+    "SA4":"Brisbane - East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9338.0
+  },
+  {
+    "SA4 code":301,
+    "SA4":"Brisbane - East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14603.0
+  },
+  {
+    "SA4 code":301,
+    "SA4":"Brisbane - East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23939.0
+  },
+  {
+    "SA4 code":302,
+    "SA4":"Brisbane - North",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8649.0
+  },
+  {
+    "SA4 code":302,
+    "SA4":"Brisbane - North",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13949.0
+  },
+  {
+    "SA4 code":302,
+    "SA4":"Brisbane - North",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22600.0
+  },
+  {
+    "SA4 code":303,
+    "SA4":"Brisbane - South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11804.0
+  },
+  {
+    "SA4 code":303,
+    "SA4":"Brisbane - South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":18555.0
+  },
+  {
+    "SA4 code":303,
+    "SA4":"Brisbane - South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":30360.0
+  },
+  {
+    "SA4 code":304,
+    "SA4":"Brisbane - West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6674.0
+  },
+  {
+    "SA4 code":304,
+    "SA4":"Brisbane - West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10575.0
+  },
+  {
+    "SA4 code":304,
+    "SA4":"Brisbane - West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17247.0
+  },
+  {
+    "SA4 code":305,
+    "SA4":"Brisbane Inner City",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11348.0
+  },
+  {
+    "SA4 code":305,
+    "SA4":"Brisbane Inner City",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17316.0
+  },
+  {
+    "SA4 code":305,
+    "SA4":"Brisbane Inner City",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28665.0
+  },
+  {
+    "SA4 code":306,
+    "SA4":"Cairns",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8123.0
+  },
+  {
+    "SA4 code":306,
+    "SA4":"Cairns",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11427.0
+  },
+  {
+    "SA4 code":306,
+    "SA4":"Cairns",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19552.0
+  },
+  {
+    "SA4 code":307,
+    "SA4":"Darling Downs - Maranoa",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4810.0
+  },
+  {
+    "SA4 code":307,
+    "SA4":"Darling Downs - Maranoa",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7126.0
+  },
+  {
+    "SA4 code":307,
+    "SA4":"Darling Downs - Maranoa",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11940.0
+  },
+  {
+    "SA4 code":308,
+    "SA4":"Central Queensland",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8355.0
+  },
+  {
+    "SA4 code":308,
+    "SA4":"Central Queensland",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12987.0
+  },
+  {
+    "SA4 code":308,
+    "SA4":"Central Queensland",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21345.0
+  },
+  {
+    "SA4 code":309,
+    "SA4":"Gold Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21186.0
+  },
+  {
+    "SA4 code":309,
+    "SA4":"Gold Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32600.0
+  },
+  {
+    "SA4 code":309,
+    "SA4":"Gold Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":53788.0
+  },
+  {
+    "SA4 code":310,
+    "SA4":"Ipswich",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16206.0
+  },
+  {
+    "SA4 code":310,
+    "SA4":"Ipswich",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":24272.0
+  },
+  {
+    "SA4 code":310,
+    "SA4":"Ipswich",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":40479.0
+  },
+  {
+    "SA4 code":311,
+    "SA4":"Logan - Beaudesert",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14281.0
+  },
+  {
+    "SA4 code":311,
+    "SA4":"Logan - Beaudesert",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22107.0
+  },
+  {
+    "SA4 code":311,
+    "SA4":"Logan - Beaudesert",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":36384.0
+  },
+  {
+    "SA4 code":312,
+    "SA4":"Mackay - Isaac - Whitsunday",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5330.0
+  },
+  {
+    "SA4 code":312,
+    "SA4":"Mackay - Isaac - Whitsunday",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8410.0
+  },
+  {
+    "SA4 code":312,
+    "SA4":"Mackay - Isaac - Whitsunday",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13740.0
+  },
+  {
+    "SA4 code":313,
+    "SA4":"Moreton Bay - North",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12855.0
+  },
+  {
+    "SA4 code":313,
+    "SA4":"Moreton Bay - North",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19390.0
+  },
+  {
+    "SA4 code":313,
+    "SA4":"Moreton Bay - North",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":32245.0
+  },
+  {
+    "SA4 code":314,
+    "SA4":"Moreton Bay - South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9210.0
+  },
+  {
+    "SA4 code":314,
+    "SA4":"Moreton Bay - South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14526.0
+  },
+  {
+    "SA4 code":314,
+    "SA4":"Moreton Bay - South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23732.0
+  },
+  {
+    "SA4 code":315,
+    "SA4":"Queensland - Outback",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1525.0
+  },
+  {
+    "SA4 code":315,
+    "SA4":"Queensland - Outback",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":2204.0
+  },
+  {
+    "SA4 code":315,
+    "SA4":"Queensland - Outback",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":3735.0
+  },
+  {
+    "SA4 code":316,
+    "SA4":"Sunshine Coast",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14509.0
+  },
+  {
+    "SA4 code":316,
+    "SA4":"Sunshine Coast",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22195.0
+  },
+  {
+    "SA4 code":316,
+    "SA4":"Sunshine Coast",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":36705.0
+  },
+  {
+    "SA4 code":317,
+    "SA4":"Toowoomba",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7116.0
+  },
+  {
+    "SA4 code":317,
+    "SA4":"Toowoomba",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10951.0
+  },
+  {
+    "SA4 code":317,
+    "SA4":"Toowoomba",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":18064.0
+  },
+  {
+    "SA4 code":318,
+    "SA4":"Townsville",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9398.0
+  },
+  {
+    "SA4 code":318,
+    "SA4":"Townsville",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13708.0
+  },
+  {
+    "SA4 code":318,
+    "SA4":"Townsville",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23103.0
+  },
+  {
+    "SA4 code":319,
+    "SA4":"Wide Bay",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15898.0
+  },
+  {
+    "SA4 code":319,
+    "SA4":"Wide Bay",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":21217.0
+  },
+  {
+    "SA4 code":319,
+    "SA4":"Wide Bay",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":37113.0
+  },
+  {
+    "SA4 code":399,
+    "SA4":"No usual address (Qld)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":864.0
+  },
+  {
+    "SA4 code":399,
+    "SA4":"No usual address (Qld)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1047.0
+  },
+  {
+    "SA4 code":399,
+    "SA4":"No usual address (Qld)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1912.0
+  },
+  {
+    "SA4 code":501,
+    "SA4":"Bunbury",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6857.0
+  },
+  {
+    "SA4 code":501,
+    "SA4":"Bunbury",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10874.0
+  },
+  {
+    "SA4 code":501,
+    "SA4":"Bunbury",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17734.0
+  },
+  {
+    "SA4 code":502,
+    "SA4":"Mandurah",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4122.0
+  },
+  {
+    "SA4 code":502,
+    "SA4":"Mandurah",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6517.0
+  },
+  {
+    "SA4 code":502,
+    "SA4":"Mandurah",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10636.0
+  },
+  {
+    "SA4 code":503,
+    "SA4":"Perth - Inner",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5977.0
+  },
+  {
+    "SA4 code":503,
+    "SA4":"Perth - Inner",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8779.0
+  },
+  {
+    "SA4 code":503,
+    "SA4":"Perth - Inner",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14756.0
+  },
+  {
+    "SA4 code":504,
+    "SA4":"Perth - North East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9393.0
+  },
+  {
+    "SA4 code":504,
+    "SA4":"Perth - North East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15035.0
+  },
+  {
+    "SA4 code":504,
+    "SA4":"Perth - North East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":24430.0
+  },
+  {
+    "SA4 code":505,
+    "SA4":"Perth - North West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17359.0
+  },
+  {
+    "SA4 code":505,
+    "SA4":"Perth - North West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28749.0
+  },
+  {
+    "SA4 code":505,
+    "SA4":"Perth - North West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":46109.0
+  },
+  {
+    "SA4 code":506,
+    "SA4":"Perth - South East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16004.0
+  },
+  {
+    "SA4 code":506,
+    "SA4":"Perth - South East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":25471.0
+  },
+  {
+    "SA4 code":506,
+    "SA4":"Perth - South East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":41476.0
+  },
+  {
+    "SA4 code":507,
+    "SA4":"Perth - South West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":14974.0
+  },
+  {
+    "SA4 code":507,
+    "SA4":"Perth - South West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":24667.0
+  },
+  {
+    "SA4 code":507,
+    "SA4":"Perth - South West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":39642.0
+  },
+  {
+    "SA4 code":509,
+    "SA4":"Western Australia - Wheat Belt",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4936.0
+  },
+  {
+    "SA4 code":509,
+    "SA4":"Western Australia - Wheat Belt",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7502.0
+  },
+  {
+    "SA4 code":509,
+    "SA4":"Western Australia - Wheat Belt",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12442.0
+  },
+  {
+    "SA4 code":510,
+    "SA4":"Western Australia - Outback (North)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1569.0
+  },
+  {
+    "SA4 code":510,
+    "SA4":"Western Australia - Outback (North)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":2407.0
+  },
+  {
+    "SA4 code":510,
+    "SA4":"Western Australia - Outback (North)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":3974.0
+  },
+  {
+    "SA4 code":511,
+    "SA4":"Western Australia - Outback (South)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":3484.0
+  },
+  {
+    "SA4 code":511,
+    "SA4":"Western Australia - Outback (South)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5190.0
+  },
+  {
+    "SA4 code":511,
+    "SA4":"Western Australia - Outback (South)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8678.0
+  },
+  {
+    "SA4 code":599,
+    "SA4":"No usual address (WA)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":337.0
+  },
+  {
+    "SA4 code":599,
+    "SA4":"No usual address (WA)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":348.0
+  },
+  {
+    "SA4 code":599,
+    "SA4":"No usual address (WA)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":688.0
+  },
+  {
+    "SA4 code":401,
+    "SA4":"Adelaide - Central and Hills",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10373.0
+  },
+  {
+    "SA4 code":401,
+    "SA4":"Adelaide - Central and Hills",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":16134.0
+  },
+  {
+    "SA4 code":401,
+    "SA4":"Adelaide - Central and Hills",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":26509.0
+  },
+  {
+    "SA4 code":402,
+    "SA4":"Adelaide - North",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":18677.0
+  },
+  {
+    "SA4 code":402,
+    "SA4":"Adelaide - North",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28848.0
+  },
+  {
+    "SA4 code":402,
+    "SA4":"Adelaide - North",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":47525.0
+  },
+  {
+    "SA4 code":403,
+    "SA4":"Adelaide - South",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":15031.0
+  },
+  {
+    "SA4 code":403,
+    "SA4":"Adelaide - South",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":23992.0
+  },
+  {
+    "SA4 code":403,
+    "SA4":"Adelaide - South",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":39028.0
+  },
+  {
+    "SA4 code":404,
+    "SA4":"Adelaide - West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":9089.0
+  },
+  {
+    "SA4 code":404,
+    "SA4":"Adelaide - West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":13704.0
+  },
+  {
+    "SA4 code":404,
+    "SA4":"Adelaide - West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":22791.0
+  },
+  {
+    "SA4 code":405,
+    "SA4":"Barossa - Yorke - Mid North",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5124.0
+  },
+  {
+    "SA4 code":405,
+    "SA4":"Barossa - Yorke - Mid North",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7322.0
+  },
+  {
+    "SA4 code":405,
+    "SA4":"Barossa - Yorke - Mid North",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12448.0
+  },
+  {
+    "SA4 code":406,
+    "SA4":"South Australia - Outback",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":2634.0
+  },
+  {
+    "SA4 code":406,
+    "SA4":"South Australia - Outback",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4086.0
+  },
+  {
+    "SA4 code":406,
+    "SA4":"South Australia - Outback",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6724.0
+  },
+  {
+    "SA4 code":407,
+    "SA4":"South Australia - South East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7953.0
+  },
+  {
+    "SA4 code":407,
+    "SA4":"South Australia - South East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11648.0
+  },
+  {
+    "SA4 code":407,
+    "SA4":"South Australia - South East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":19605.0
+  },
+  {
+    "SA4 code":499,
+    "SA4":"No usual address (SA)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":267.0
+  },
+  {
+    "SA4 code":499,
+    "SA4":"No usual address (SA)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":317.0
+  },
+  {
+    "SA4 code":499,
+    "SA4":"No usual address (SA)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":580.0
+  },
+  {
+    "SA4 code":601,
+    "SA4":"Hobart",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":11018.0
+  },
+  {
+    "SA4 code":601,
+    "SA4":"Hobart",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17736.0
+  },
+  {
+    "SA4 code":601,
+    "SA4":"Hobart",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28751.0
+  },
+  {
+    "SA4 code":602,
+    "SA4":"Launceston and North East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":6767.0
+  },
+  {
+    "SA4 code":602,
+    "SA4":"Launceston and North East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":10275.0
+  },
+  {
+    "SA4 code":602,
+    "SA4":"Launceston and North East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17041.0
+  },
+  {
+    "SA4 code":603,
+    "SA4":"South East",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1985.0
+  },
+  {
+    "SA4 code":603,
+    "SA4":"South East",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":2787.0
+  },
+  {
+    "SA4 code":603,
+    "SA4":"South East",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4772.0
+  },
+  {
+    "SA4 code":604,
+    "SA4":"West and North West",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":5075.0
+  },
+  {
+    "SA4 code":604,
+    "SA4":"West and North West",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":7923.0
+  },
+  {
+    "SA4 code":604,
+    "SA4":"West and North West",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":12998.0
+  },
+  {
+    "SA4 code":699,
+    "SA4":"No usual address (Tas.)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":143.0
+  },
+  {
+    "SA4 code":699,
+    "SA4":"No usual address (Tas.)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":145.0
+  },
+  {
+    "SA4 code":699,
+    "SA4":"No usual address (Tas.)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":288.0
+  },
+  {
+    "SA4 code":801,
+    "SA4":"Australian Capital Territory",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":17407.0
+  },
+  {
+    "SA4 code":801,
+    "SA4":"Australian Capital Territory",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":28002.0
+  },
+  {
+    "SA4 code":801,
+    "SA4":"Australian Capital Territory",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":45408.0
+  },
+  {
+    "SA4 code":899,
+    "SA4":"No usual address (ACT)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":55.0
+  },
+  {
+    "SA4 code":899,
+    "SA4":"No usual address (ACT)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":58.0
+  },
+  {
+    "SA4 code":899,
+    "SA4":"No usual address (ACT)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":108.0
+  },
+  {
+    "SA4 code":701,
+    "SA4":"Darwin",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":3228.0
+  },
+  {
+    "SA4 code":701,
+    "SA4":"Darwin",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":4966.0
+  },
+  {
+    "SA4 code":701,
+    "SA4":"Darwin",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":8196.0
+  },
+  {
+    "SA4 code":702,
+    "SA4":"Northern Territory - Outback",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1547.0
+  },
+  {
+    "SA4 code":702,
+    "SA4":"Northern Territory - Outback",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":1993.0
+  },
+  {
+    "SA4 code":702,
+    "SA4":"Northern Territory - Outback",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":3543.0
+  },
+  {
+    "SA4 code":799,
+    "SA4":"No usual address (NT)",
+    "Sex":"Male",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":129.0
+  },
+  {
+    "SA4 code":799,
+    "SA4":"No usual address (NT)",
+    "Sex":"Female",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":109.0
+  },
+  {
+    "SA4 code":799,
+    "SA4":"No usual address (NT)",
+    "Sex":"Total",
+    "Count":"Number",
+    "Has a mental health condition (including depression or anxiety)":237.0
+  },
+  {
+    "SA4 code":101,
+    "SA4":"Capital Region",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0192798603
+  },
+  {
+    "SA4 code":101,
+    "SA4":"Capital Region",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.9395255596
+  },
+  {
+    "SA4 code":101,
+    "SA4":"Capital Region",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9857627403
+  },
+  {
+    "SA4 code":102,
+    "SA4":"Central Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.8087867603
+  },
+  {
+    "SA4 code":102,
+    "SA4":"Central Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.982454176
+  },
+  {
+    "SA4 code":102,
+    "SA4":"Central Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9591570589
+  },
+  {
+    "SA4 code":103,
+    "SA4":"Central West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2511793452
+  },
+  {
+    "SA4 code":103,
+    "SA4":"Central West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.2687548591
+  },
+  {
+    "SA4 code":103,
+    "SA4":"Central West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.2642724993
+  },
+  {
+    "SA4 code":104,
+    "SA4":"Coffs Harbour - Grafton",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.2367511924
+  },
+  {
+    "SA4 code":104,
+    "SA4":"Coffs Harbour - Grafton",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.6242731195
+  },
+  {
+    "SA4 code":104,
+    "SA4":"Coffs Harbour - Grafton",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9644350462
+  },
+  {
+    "SA4 code":105,
+    "SA4":"Far West and Orana",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.3750327139
+  },
+  {
+    "SA4 code":105,
+    "SA4":"Far West and Orana",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.8427323136
+  },
+  {
+    "SA4 code":105,
+    "SA4":"Far West and Orana",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1220601215
+  },
+  {
+    "SA4 code":106,
+    "SA4":"Hunter Valley exc Newcastle",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.4116025906
+  },
+  {
+    "SA4 code":106,
+    "SA4":"Hunter Valley exc Newcastle",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.3783548132
+  },
+  {
+    "SA4 code":106,
+    "SA4":"Hunter Valley exc Newcastle",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.9087091448
+  },
+  {
+    "SA4 code":107,
+    "SA4":"Illawarra",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.7687484585
+  },
+  {
+    "SA4 code":107,
+    "SA4":"Illawarra",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.3626941059
+  },
+  {
+    "SA4 code":107,
+    "SA4":"Illawarra",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.1085896725
+  },
+  {
+    "SA4 code":108,
+    "SA4":"Mid North Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.6976719121
+  },
+  {
+    "SA4 code":108,
+    "SA4":"Mid North Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.0476894451
+  },
+  {
+    "SA4 code":108,
+    "SA4":"Mid North Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.4192154038
+  },
+  {
+    "SA4 code":109,
+    "SA4":"Murray",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.1223940379
+  },
+  {
+    "SA4 code":109,
+    "SA4":"Murray",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.1665416115
+  },
+  {
+    "SA4 code":109,
+    "SA4":"Murray",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.1714257964
+  },
+  {
+    "SA4 code":110,
+    "SA4":"New England and North West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5496920953
+  },
+  {
+    "SA4 code":110,
+    "SA4":"New England and North West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.2579269974
+  },
+  {
+    "SA4 code":110,
+    "SA4":"New England and North West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.4346841992
+  },
+  {
+    "SA4 code":111,
+    "SA4":"Newcastle and Lake Macquarie",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.7945807857
+  },
+  {
+    "SA4 code":111,
+    "SA4":"Newcastle and Lake Macquarie",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.5227425386
+  },
+  {
+    "SA4 code":111,
+    "SA4":"Newcastle and Lake Macquarie",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.2096492104
+  },
+  {
+    "SA4 code":112,
+    "SA4":"Richmond - Tweed",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.4783220155
+  },
+  {
+    "SA4 code":112,
+    "SA4":"Richmond - Tweed",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.3199722524
+  },
+  {
+    "SA4 code":112,
+    "SA4":"Richmond - Tweed",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9451103046
+  },
+  {
+    "SA4 code":113,
+    "SA4":"Riverina",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.320460663
+  },
+  {
+    "SA4 code":113,
+    "SA4":"Riverina",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.0993657505
+  },
+  {
+    "SA4 code":113,
+    "SA4":"Riverina",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.2236153884
+  },
+  {
+    "SA4 code":114,
+    "SA4":"Southern Highlands and Shoalhaven",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.5718992764
+  },
+  {
+    "SA4 code":114,
+    "SA4":"Southern Highlands and Shoalhaven",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.2225741223
+  },
+  {
+    "SA4 code":114,
+    "SA4":"Southern Highlands and Shoalhaven",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.4319093698
+  },
+  {
+    "SA4 code":115,
+    "SA4":"Sydney - Baulkham Hills and Hawkesbury",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.2632874241
+  },
+  {
+    "SA4 code":115,
+    "SA4":"Sydney - Baulkham Hills and Hawkesbury",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.5176852968
+  },
+  {
+    "SA4 code":115,
+    "SA4":"Sydney - Baulkham Hills and Hawkesbury",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.4022566772
+  },
+  {
+    "SA4 code":116,
+    "SA4":"Sydney - Blacktown",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.6784970041
+  },
+  {
+    "SA4 code":116,
+    "SA4":"Sydney - Blacktown",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.2062878931
+  },
+  {
+    "SA4 code":116,
+    "SA4":"Sydney - Blacktown",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.9439347427
+  },
+  {
+    "SA4 code":117,
+    "SA4":"Sydney - City and Inner South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.0336463178
+  },
+  {
+    "SA4 code":117,
+    "SA4":"Sydney - City and Inner South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.4203582464
+  },
+  {
+    "SA4 code":117,
+    "SA4":"Sydney - City and Inner South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.6777932034
+  },
+  {
+    "SA4 code":118,
+    "SA4":"Sydney - Eastern Suburbs",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.7040068526
+  },
+  {
+    "SA4 code":118,
+    "SA4":"Sydney - Eastern Suburbs",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.4397020572
+  },
+  {
+    "SA4 code":118,
+    "SA4":"Sydney - Eastern Suburbs",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.1210359206
+  },
+  {
+    "SA4 code":119,
+    "SA4":"Sydney - Inner South West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":3.9647752366
+  },
+  {
+    "SA4 code":119,
+    "SA4":"Sydney - Inner South West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.0661274114
+  },
+  {
+    "SA4 code":119,
+    "SA4":"Sydney - Inner South West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.0176990273
+  },
+  {
+    "SA4 code":120,
+    "SA4":"Sydney - Inner West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.2975717499
+  },
+  {
+    "SA4 code":120,
+    "SA4":"Sydney - Inner West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.1706310353
+  },
+  {
+    "SA4 code":120,
+    "SA4":"Sydney - Inner West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.7706573132
+  },
+  {
+    "SA4 code":121,
+    "SA4":"Sydney - North Sydney and Hornsby",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.7997100583
+  },
+  {
+    "SA4 code":121,
+    "SA4":"Sydney - North Sydney and Hornsby",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.1893135882
+  },
+  {
+    "SA4 code":121,
+    "SA4":"Sydney - North Sydney and Hornsby",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.040160832
+  },
+  {
+    "SA4 code":122,
+    "SA4":"Sydney - Northern Beaches",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.8615904878
+  },
+  {
+    "SA4 code":122,
+    "SA4":"Sydney - Northern Beaches",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5388306604
+  },
+  {
+    "SA4 code":122,
+    "SA4":"Sydney - Northern Beaches",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.2306016983
+  },
+  {
+    "SA4 code":123,
+    "SA4":"Sydney - Outer South West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.1359220644
+  },
+  {
+    "SA4 code":123,
+    "SA4":"Sydney - Outer South West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.7245933749
+  },
+  {
+    "SA4 code":123,
+    "SA4":"Sydney - Outer South West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.9601872906
+  },
+  {
+    "SA4 code":124,
+    "SA4":"Sydney - Outer West and Blue Mountains",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.6281572078
+  },
+  {
+    "SA4 code":124,
+    "SA4":"Sydney - Outer West and Blue Mountains",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.7083772548
+  },
+  {
+    "SA4 code":124,
+    "SA4":"Sydney - Outer West and Blue Mountains",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.7046883658
+  },
+  {
+    "SA4 code":125,
+    "SA4":"Sydney - Parramatta",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":3.7514607563
+  },
+  {
+    "SA4 code":125,
+    "SA4":"Sydney - Parramatta",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.8148811025
+  },
+  {
+    "SA4 code":125,
+    "SA4":"Sydney - Parramatta",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.7631784242
+  },
+  {
+    "SA4 code":126,
+    "SA4":"Sydney - Ryde",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.447132489
+  },
+  {
+    "SA4 code":126,
+    "SA4":"Sydney - Ryde",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.4924415632
+  },
+  {
+    "SA4 code":126,
+    "SA4":"Sydney - Ryde",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.4955008464
+  },
+  {
+    "SA4 code":127,
+    "SA4":"Sydney - South West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.0649714388
+  },
+  {
+    "SA4 code":127,
+    "SA4":"Sydney - South West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.0217621859
+  },
+  {
+    "SA4 code":127,
+    "SA4":"Sydney - South West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.0525894231
+  },
+  {
+    "SA4 code":128,
+    "SA4":"Sydney - Sutherland",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.5755491814
+  },
+  {
+    "SA4 code":128,
+    "SA4":"Sydney - Sutherland",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.5920989843
+  },
+  {
+    "SA4 code":128,
+    "SA4":"Sydney - Sutherland",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.1166007561
+  },
+  {
+    "SA4 code":199,
+    "SA4":"No usual address (NSW)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.8431372549
+  },
+  {
+    "SA4 code":199,
+    "SA4":"No usual address (NSW)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":16.6099659796
+  },
+  {
+    "SA4 code":199,
+    "SA4":"No usual address (NSW)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.938967549
+  },
+  {
+    "SA4 code":201,
+    "SA4":"Ballarat",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0339836079
+  },
+  {
+    "SA4 code":201,
+    "SA4":"Ballarat",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.872983372
+  },
+  {
+    "SA4 code":201,
+    "SA4":"Ballarat",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.5022278181
+  },
+  {
+    "SA4 code":202,
+    "SA4":"Bendigo",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.4837597643
+  },
+  {
+    "SA4 code":202,
+    "SA4":"Bendigo",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.5765472313
+  },
+  {
+    "SA4 code":202,
+    "SA4":"Bendigo",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.0955628144
+  },
+  {
+    "SA4 code":203,
+    "SA4":"Geelong",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2173894029
+  },
+  {
+    "SA4 code":203,
+    "SA4":"Geelong",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.8540356941
+  },
+  {
+    "SA4 code":203,
+    "SA4":"Geelong",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.5899145414
+  },
+  {
+    "SA4 code":204,
+    "SA4":"Hume",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.7994296057
+  },
+  {
+    "SA4 code":204,
+    "SA4":"Hume",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.6181081369
+  },
+  {
+    "SA4 code":204,
+    "SA4":"Hume",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.7372860735
+  },
+  {
+    "SA4 code":205,
+    "SA4":"Latrobe - Gippsland",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.7395912956
+  },
+  {
+    "SA4 code":205,
+    "SA4":"Latrobe - Gippsland",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.1202823253
+  },
+  {
+    "SA4 code":205,
+    "SA4":"Latrobe - Gippsland",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9666675531
+  },
+  {
+    "SA4 code":206,
+    "SA4":"Melbourne - Inner",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0359137297
+  },
+  {
+    "SA4 code":206,
+    "SA4":"Melbourne - Inner",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.4977922995
+  },
+  {
+    "SA4 code":206,
+    "SA4":"Melbourne - Inner",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.3290341611
+  },
+  {
+    "SA4 code":207,
+    "SA4":"Melbourne - Inner East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.3162853297
+  },
+  {
+    "SA4 code":207,
+    "SA4":"Melbourne - Inner East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.1639291781
+  },
+  {
+    "SA4 code":207,
+    "SA4":"Melbourne - Inner East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.7935481107
+  },
+  {
+    "SA4 code":208,
+    "SA4":"Melbourne - Inner South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.016228178
+  },
+  {
+    "SA4 code":208,
+    "SA4":"Melbourne - Inner South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.412735763
+  },
+  {
+    "SA4 code":208,
+    "SA4":"Melbourne - Inner South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.7773229636
+  },
+  {
+    "SA4 code":209,
+    "SA4":"Melbourne - North East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.4406741556
+  },
+  {
+    "SA4 code":209,
+    "SA4":"Melbourne - North East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.4252731237
+  },
+  {
+    "SA4 code":209,
+    "SA4":"Melbourne - North East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.4584880813
+  },
+  {
+    "SA4 code":210,
+    "SA4":"Melbourne - North West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.6781496949
+  },
+  {
+    "SA4 code":210,
+    "SA4":"Melbourne - North West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1163858753
+  },
+  {
+    "SA4 code":210,
+    "SA4":"Melbourne - North West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.4079485681
+  },
+  {
+    "SA4 code":211,
+    "SA4":"Melbourne - Outer East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.9908418985
+  },
+  {
+    "SA4 code":211,
+    "SA4":"Melbourne - Outer East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.1772104565
+  },
+  {
+    "SA4 code":211,
+    "SA4":"Melbourne - Outer East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1284793971
+  },
+  {
+    "SA4 code":212,
+    "SA4":"Melbourne - South East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.3341556794
+  },
+  {
+    "SA4 code":212,
+    "SA4":"Melbourne - South East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.5735196738
+  },
+  {
+    "SA4 code":212,
+    "SA4":"Melbourne - South East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.955444969
+  },
+  {
+    "SA4 code":213,
+    "SA4":"Melbourne - West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.3325868071
+  },
+  {
+    "SA4 code":213,
+    "SA4":"Melbourne - West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.5804654742
+  },
+  {
+    "SA4 code":213,
+    "SA4":"Melbourne - West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.9550110544
+  },
+  {
+    "SA4 code":214,
+    "SA4":"Mornington Peninsula",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.3189730026
+  },
+  {
+    "SA4 code":214,
+    "SA4":"Mornington Peninsula",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.7514068691
+  },
+  {
+    "SA4 code":214,
+    "SA4":"Mornington Peninsula",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.5957965908
+  },
+  {
+    "SA4 code":215,
+    "SA4":"North West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.8747762482
+  },
+  {
+    "SA4 code":215,
+    "SA4":"North West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.710347306
+  },
+  {
+    "SA4 code":215,
+    "SA4":"North West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.7963591484
+  },
+  {
+    "SA4 code":216,
+    "SA4":"Shepparton",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2526118639
+  },
+  {
+    "SA4 code":216,
+    "SA4":"Shepparton",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.283132704
+  },
+  {
+    "SA4 code":216,
+    "SA4":"Shepparton",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.2820851923
+  },
+  {
+    "SA4 code":217,
+    "SA4":"Warrnambool and South West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.8108420569
+  },
+  {
+    "SA4 code":217,
+    "SA4":"Warrnambool and South West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.5192680898
+  },
+  {
+    "SA4 code":217,
+    "SA4":"Warrnambool and South West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.6900889364
+  },
+  {
+    "SA4 code":299,
+    "SA4":"No usual address (Vic.)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.5396518375
+  },
+  {
+    "SA4 code":299,
+    "SA4":"No usual address (Vic.)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":19.7190293742
+  },
+  {
+    "SA4 code":299,
+    "SA4":"No usual address (Vic.)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":16.1733964132
+  },
+  {
+    "SA4 code":301,
+    "SA4":"Brisbane - East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.9727468324
+  },
+  {
+    "SA4 code":301,
+    "SA4":"Brisbane - East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.9017734889
+  },
+  {
+    "SA4 code":301,
+    "SA4":"Brisbane - East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9821947568
+  },
+  {
+    "SA4 code":302,
+    "SA4":"Brisbane - North",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.9132280554
+  },
+  {
+    "SA4 code":302,
+    "SA4":"Brisbane - North",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.0982150601
+  },
+  {
+    "SA4 code":302,
+    "SA4":"Brisbane - North",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0624226396
+  },
+  {
+    "SA4 code":303,
+    "SA4":"Brisbane - South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.4707817125
+  },
+  {
+    "SA4 code":303,
+    "SA4":"Brisbane - South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8379690996
+  },
+  {
+    "SA4 code":303,
+    "SA4":"Brisbane - South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.182714958
+  },
+  {
+    "SA4 code":304,
+    "SA4":"Brisbane - West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.2053203204
+  },
+  {
+    "SA4 code":304,
+    "SA4":"Brisbane - West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9487917504
+  },
+  {
+    "SA4 code":304,
+    "SA4":"Brisbane - West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1151242251
+  },
+  {
+    "SA4 code":305,
+    "SA4":"Brisbane Inner City",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.8450349805
+  },
+  {
+    "SA4 code":305,
+    "SA4":"Brisbane Inner City",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.7323432164
+  },
+  {
+    "SA4 code":305,
+    "SA4":"Brisbane Inner City",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8085510445
+  },
+  {
+    "SA4 code":306,
+    "SA4":"Cairns",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.4461091625
+  },
+  {
+    "SA4 code":306,
+    "SA4":"Cairns",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.9458644851
+  },
+  {
+    "SA4 code":306,
+    "SA4":"Cairns",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.7052824062
+  },
+  {
+    "SA4 code":307,
+    "SA4":"Darling Downs - Maranoa",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.4740505936
+  },
+  {
+    "SA4 code":307,
+    "SA4":"Darling Downs - Maranoa",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.0886343832
+  },
+  {
+    "SA4 code":307,
+    "SA4":"Darling Downs - Maranoa",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.2830153473
+  },
+  {
+    "SA4 code":308,
+    "SA4":"Central Queensland",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.2387173911
+  },
+  {
+    "SA4 code":308,
+    "SA4":"Central Queensland",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.5109507813
+  },
+  {
+    "SA4 code":308,
+    "SA4":"Central Queensland",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.351752057
+  },
+  {
+    "SA4 code":309,
+    "SA4":"Gold Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.8088908315
+  },
+  {
+    "SA4 code":309,
+    "SA4":"Gold Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8899665379
+  },
+  {
+    "SA4 code":309,
+    "SA4":"Gold Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.3941708361
+  },
+  {
+    "SA4 code":310,
+    "SA4":"Ipswich",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.8741163393
+  },
+  {
+    "SA4 code":310,
+    "SA4":"Ipswich",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.1552703464
+  },
+  {
+    "SA4 code":310,
+    "SA4":"Ipswich",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.0259148085
+  },
+  {
+    "SA4 code":311,
+    "SA4":"Logan - Beaudesert",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0411036036
+  },
+  {
+    "SA4 code":311,
+    "SA4":"Logan - Beaudesert",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.1351016062
+  },
+  {
+    "SA4 code":311,
+    "SA4":"Logan - Beaudesert",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.1132121623
+  },
+  {
+    "SA4 code":312,
+    "SA4":"Mackay - Isaac - Whitsunday",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.7491101284
+  },
+  {
+    "SA4 code":312,
+    "SA4":"Mackay - Isaac - Whitsunday",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.5364448678
+  },
+  {
+    "SA4 code":312,
+    "SA4":"Mackay - Isaac - Whitsunday",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5956084779
+  },
+  {
+    "SA4 code":313,
+    "SA4":"Moreton Bay - North",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.9600204547
+  },
+  {
+    "SA4 code":313,
+    "SA4":"Moreton Bay - North",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.2905574718
+  },
+  {
+    "SA4 code":313,
+    "SA4":"Moreton Bay - North",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.1793225358
+  },
+  {
+    "SA4 code":314,
+    "SA4":"Moreton Bay - South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.6118227891
+  },
+  {
+    "SA4 code":314,
+    "SA4":"Moreton Bay - South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.11590866
+  },
+  {
+    "SA4 code":314,
+    "SA4":"Moreton Bay - South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9012402389
+  },
+  {
+    "SA4 code":315,
+    "SA4":"Queensland - Outback",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":3.6844648466
+  },
+  {
+    "SA4 code":315,
+    "SA4":"Queensland - Outback",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.7331633848
+  },
+  {
+    "SA4 code":315,
+    "SA4":"Queensland - Outback",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.6788680522
+  },
+  {
+    "SA4 code":316,
+    "SA4":"Sunshine Coast",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5565740476
+  },
+  {
+    "SA4 code":316,
+    "SA4":"Sunshine Coast",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.7308276202
+  },
+  {
+    "SA4 code":316,
+    "SA4":"Sunshine Coast",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.2029385217
+  },
+  {
+    "SA4 code":317,
+    "SA4":"Toowoomba",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1070811523
+  },
+  {
+    "SA4 code":317,
+    "SA4":"Toowoomba",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.0497992064
+  },
+  {
+    "SA4 code":317,
+    "SA4":"Toowoomba",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.1465577351
+  },
+  {
+    "SA4 code":318,
+    "SA4":"Townsville",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0230155885
+  },
+  {
+    "SA4 code":318,
+    "SA4":"Townsville",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.7018370552
+  },
+  {
+    "SA4 code":318,
+    "SA4":"Townsville",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8611508304
+  },
+  {
+    "SA4 code":319,
+    "SA4":"Wide Bay",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.4791346705
+  },
+  {
+    "SA4 code":319,
+    "SA4":"Wide Bay",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.5978517227
+  },
+  {
+    "SA4 code":319,
+    "SA4":"Wide Bay",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.0596597833
+  },
+  {
+    "SA4 code":399,
+    "SA4":"No usual address (Qld)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9909680702
+  },
+  {
+    "SA4 code":399,
+    "SA4":"No usual address (Qld)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":15.3812252093
+  },
+  {
+    "SA4 code":399,
+    "SA4":"No usual address (Qld)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.0334014997
+  },
+  {
+    "SA4 code":501,
+    "SA4":"Bunbury",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.3518532417
+  },
+  {
+    "SA4 code":501,
+    "SA4":"Bunbury",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.3884146916
+  },
+  {
+    "SA4 code":501,
+    "SA4":"Bunbury",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.3956460235
+  },
+  {
+    "SA4 code":502,
+    "SA4":"Mandurah",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.9301256277
+  },
+  {
+    "SA4 code":502,
+    "SA4":"Mandurah",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.7085878548
+  },
+  {
+    "SA4 code":502,
+    "SA4":"Mandurah",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.8809933018
+  },
+  {
+    "SA4 code":503,
+    "SA4":"Perth - Inner",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.6392668703
+  },
+  {
+    "SA4 code":503,
+    "SA4":"Perth - Inner",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.517459698
+  },
+  {
+    "SA4 code":503,
+    "SA4":"Perth - Inner",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.0958154795
+  },
+  {
+    "SA4 code":504,
+    "SA4":"Perth - North East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.8015437977
+  },
+  {
+    "SA4 code":504,
+    "SA4":"Perth - North East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.8573202964
+  },
+  {
+    "SA4 code":504,
+    "SA4":"Perth - North East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.8331109689
+  },
+  {
+    "SA4 code":505,
+    "SA4":"Perth - North West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.1324487402
+  },
+  {
+    "SA4 code":505,
+    "SA4":"Perth - North West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.7707614662
+  },
+  {
+    "SA4 code":505,
+    "SA4":"Perth - North West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.9870499933
+  },
+  {
+    "SA4 code":506,
+    "SA4":"Perth - South East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.0588852166
+  },
+  {
+    "SA4 code":506,
+    "SA4":"Perth - South East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.5999246207
+  },
+  {
+    "SA4 code":506,
+    "SA4":"Perth - South East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.8335530516
+  },
+  {
+    "SA4 code":507,
+    "SA4":"Perth - South West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.8730951419
+  },
+  {
+    "SA4 code":507,
+    "SA4":"Perth - South West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9369111329
+  },
+  {
+    "SA4 code":507,
+    "SA4":"Perth - South West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.9403189395
+  },
+  {
+    "SA4 code":509,
+    "SA4":"Western Australia - Wheat Belt",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.0903240634
+  },
+  {
+    "SA4 code":509,
+    "SA4":"Western Australia - Wheat Belt",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.1040393126
+  },
+  {
+    "SA4 code":509,
+    "SA4":"Western Australia - Wheat Belt",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.0701658465
+  },
+  {
+    "SA4 code":510,
+    "SA4":"Western Australia - Outback (North)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":3.2603274873
+  },
+  {
+    "SA4 code":510,
+    "SA4":"Western Australia - Outback (North)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.7310888354
+  },
+  {
+    "SA4 code":510,
+    "SA4":"Western Australia - Outback (North)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.4092845731
+  },
+  {
+    "SA4 code":511,
+    "SA4":"Western Australia - Outback (South)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.6577729421
+  },
+  {
+    "SA4 code":511,
+    "SA4":"Western Australia - Outback (South)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.0770764468
+  },
+  {
+    "SA4 code":511,
+    "SA4":"Western Australia - Outback (South)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.3072971926
+  },
+  {
+    "SA4 code":599,
+    "SA4":"No usual address (WA)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.2644966588
+  },
+  {
+    "SA4 code":599,
+    "SA4":"No usual address (WA)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.18735363
+  },
+  {
+    "SA4 code":599,
+    "SA4":"No usual address (WA)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.5412787089
+  },
+  {
+    "SA4 code":401,
+    "SA4":"Adelaide - Central and Hills",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.8264978414
+  },
+  {
+    "SA4 code":401,
+    "SA4":"Adelaide - Central and Hills",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0567852446
+  },
+  {
+    "SA4 code":401,
+    "SA4":"Adelaide - Central and Hills",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.4862201763
+  },
+  {
+    "SA4 code":402,
+    "SA4":"Adelaide - North",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2399498818
+  },
+  {
+    "SA4 code":402,
+    "SA4":"Adelaide - North",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.5954548431
+  },
+  {
+    "SA4 code":402,
+    "SA4":"Adelaide - North",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.4288501164
+  },
+  {
+    "SA4 code":403,
+    "SA4":"Adelaide - South",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2537120014
+  },
+  {
+    "SA4 code":403,
+    "SA4":"Adelaide - South",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.447728051
+  },
+  {
+    "SA4 code":403,
+    "SA4":"Adelaide - South",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.4113813461
+  },
+  {
+    "SA4 code":404,
+    "SA4":"Adelaide - West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.5999431405
+  },
+  {
+    "SA4 code":404,
+    "SA4":"Adelaide - West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.9846420212
+  },
+  {
+    "SA4 code":404,
+    "SA4":"Adelaide - West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.3273091137
+  },
+  {
+    "SA4 code":405,
+    "SA4":"Barossa - Yorke - Mid North",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.9544413959
+  },
+  {
+    "SA4 code":405,
+    "SA4":"Barossa - Yorke - Mid North",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.7861695626
+  },
+  {
+    "SA4 code":405,
+    "SA4":"Barossa - Yorke - Mid North",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.8728501926
+  },
+  {
+    "SA4 code":406,
+    "SA4":"South Australia - Outback",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.2448137699
+  },
+  {
+    "SA4 code":406,
+    "SA4":"South Australia - Outback",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0958687488
+  },
+  {
+    "SA4 code":406,
+    "SA4":"South Australia - Outback",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.135904944
+  },
+  {
+    "SA4 code":407,
+    "SA4":"South Australia - South East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.2001525993
+  },
+  {
+    "SA4 code":407,
+    "SA4":"South Australia - South East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.0430107527
+  },
+  {
+    "SA4 code":407,
+    "SA4":"South Australia - South East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.1208513802
+  },
+  {
+    "SA4 code":499,
+    "SA4":"No usual address (SA)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.2552055526
+  },
+  {
+    "SA4 code":499,
+    "SA4":"No usual address (SA)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":21.0491367862
+  },
+  {
+    "SA4 code":499,
+    "SA4":"No usual address (SA)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":17.175007403
+  },
+  {
+    "SA4 code":601,
+    "SA4":"Hobart",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1419752574
+  },
+  {
+    "SA4 code":601,
+    "SA4":"Hobart",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":14.0136849923
+  },
+  {
+    "SA4 code":601,
+    "SA4":"Hobart",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.6360295606
+  },
+  {
+    "SA4 code":602,
+    "SA4":"Launceston and North East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.1031384102
+  },
+  {
+    "SA4 code":602,
+    "SA4":"Launceston and North East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.3686360738
+  },
+  {
+    "SA4 code":602,
+    "SA4":"Launceston and North East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.2708753596
+  },
+  {
+    "SA4 code":603,
+    "SA4":"South East",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":9.3096332427
+  },
+  {
+    "SA4 code":603,
+    "SA4":"South East",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.6523954149
+  },
+  {
+    "SA4 code":603,
+    "SA4":"South East",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.4343221354
+  },
+  {
+    "SA4 code":604,
+    "SA4":"West and North West",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.9326574436
+  },
+  {
+    "SA4 code":604,
+    "SA4":"West and North West",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":13.3498458272
+  },
+  {
+    "SA4 code":604,
+    "SA4":"West and North West",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":11.1901236268
+  },
+  {
+    "SA4 code":699,
+    "SA4":"No usual address (Tas.)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":18.8654353562
+  },
+  {
+    "SA4 code":699,
+    "SA4":"No usual address (Tas.)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":23.538961039
+  },
+  {
+    "SA4 code":699,
+    "SA4":"No usual address (Tas.)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":20.9150326797
+  },
+  {
+    "SA4 code":801,
+    "SA4":"Australian Capital Territory",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.7702189963
+  },
+  {
+    "SA4 code":801,
+    "SA4":"Australian Capital Territory",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":12.1817208932
+  },
+  {
+    "SA4 code":801,
+    "SA4":"Australian Capital Territory",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.0041860363
+  },
+  {
+    "SA4 code":899,
+    "SA4":"No usual address (ACT)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":16.369047619
+  },
+  {
+    "SA4 code":899,
+    "SA4":"No usual address (ACT)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":21.2454212454
+  },
+  {
+    "SA4 code":899,
+    "SA4":"No usual address (ACT)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":17.8512396694
+  },
+  {
+    "SA4 code":701,
+    "SA4":"Darwin",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.5632536507
+  },
+  {
+    "SA4 code":701,
+    "SA4":"Darwin",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.1803473056
+  },
+  {
+    "SA4 code":701,
+    "SA4":"Darwin",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":5.8583865849
+  },
+  {
+    "SA4 code":702,
+    "SA4":"Northern Territory - Outback",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":3.4472001248
+  },
+  {
+    "SA4 code":702,
+    "SA4":"Northern Territory - Outback",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":4.5070104025
+  },
+  {
+    "SA4 code":702,
+    "SA4":"Northern Territory - Outback",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":3.9762970944
+  },
+  {
+    "SA4 code":799,
+    "SA4":"No usual address (NT)",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":7.0646221249
+  },
+  {
+    "SA4 code":799,
+    "SA4":"No usual address (NT)",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.5074626866
+  },
+  {
+    "SA4 code":799,
+    "SA4":"No usual address (NT)",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.7714285714
+  },
+  {
+    "SA4 code":". .",
+    "SA4":"Total",
+    "Sex":"Male",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":6.9554382832
+  },
+  {
+    "SA4 code":". .",
+    "SA4":"Total",
+    "Sex":"Female",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":10.5533608624
+  },
+  {
+    "SA4 code":". .",
+    "SA4":"Total",
+    "Sex":"Total",
+    "Count":"Per cent",
+    "Has a mental health condition (including depression or anxiety)":8.7779791001
+  },
+  {
+    "SA4 code":null,
+    "SA4":null,
+    "Sex":null,
+    "Count":null,
+    "Has a mental health condition (including depression or anxiety)":null
+  },
+  {
+    "SA4 code":"Note: Data were extracted using the TableBuilder as at 25 May 2023. There may be some differences between the data here and that published elsewhere due to different calculation or estimation methodologies or extraction date. The Tablebuilder uses a randomisation technique to confidentialise small numbers. This can result in differences between the column sum and total and small variations in numbers from one data extract to another.",
+    "SA4":null,
+    "Sex":null,
+    "Count":null,
+    "Has a mental health condition (including depression or anxiety)":null
+  },
+  {
+    "SA4 code":"Source: ABS 2021, Census of Population and Housing.",
+    "SA4":null,
+    "Sex":null,
+    "Count":null,
+    "Has a mental health condition (including depression or anxiety)":null
+  }
+]
